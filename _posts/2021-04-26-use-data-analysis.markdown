@@ -5,7 +5,7 @@ date: 2021-04-26 11:56:00 -0400
 categories: basics
 ---
 
-![test]({{ site.baseurl }}/assets/images-posts/app-welcome.png)
+![The app's welcome page. Welcome to SportAI. Optimize your lineups, beat your opponents, and master sports analytics.]({{ site.baseurl }}/assets/images-posts/app-welcome.png)
 
 ### What is SportAI?
 
@@ -13,7 +13,7 @@ SportAI is changing how people play fantasy sports by putting the power of AI in
 
 Anyone can do the first two, but sports data analysis can be confusing and difficult to access. Whether it’s football or basketball, that’s where SportAI comes in. Test your lineup’s Score+, adjust, and win. Trust the machine. It’s that simple.
 
-![test]({{ site.baseurl }}/assets/images-posts/app-lineups.png)
+![The app's lineups page with three saved lineups.]({{ site.baseurl }}/assets/images-posts/app-lineups.png)
 
 ### How does SportAI help you?
 
@@ -23,7 +23,7 @@ For the first time, everyday sports fans get access to pro-level data analysis t
 
 As we onboard users, more data analysis features are being added so you can quickly learn how to interpret the numbers. We’re giving the power of data to you, the players.
 
-![test]({{ site.baseurl }}/assets/images-posts/app-results.png)
+![The app's results page with NBA player's Score+'s.]({{ site.baseurl }}/assets/images-posts/app-results.png)
 
 ### How can you get access?
 
