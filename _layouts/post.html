@@ -1,1 +1,32 @@
+<link rel="stylesheet" href="{{ site.baseurl}}/assets/css/style-post.css">
+<div class="navigation">
+  <div class="logo-container">
+    <a href="{{ site.url }}" style="text-decoration: none; color: black;">
+      <img src="{{ site.url}}/images/logo.svg">
+      SportAI
+    </a>
+  </div>
+</div>
+
 {{ content }}
+
+<style>
+  .navigation {
+    padding: 20px;
+  }
+  
+  .logo-container {
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: -1.5px;
+    text-align: center;
+    max-width: 100px;
+    margin: 0 auto;
+  }
+  
+  .navigation img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
