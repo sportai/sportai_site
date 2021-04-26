@@ -34,9 +34,15 @@
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
   
+  <section class="secondary-container">
+    <!-- Blog link -->
+    <a class="blog-link" href="/blog">Check out our blog -></a>
+  </section>
+  
   <section class="hero-container">
+    <!-- Hero text content -->
     <div class="logo-container">
-      <img src="./images/logo.svg"">
+      <img src="./images/logo.svg">
       SportAI
     </div>
     <div class="hero-title">
@@ -46,6 +52,7 @@
       Set your optimal lineups, compare athletes and teams, and get easy-to-understand stats.
     </div>
 
+    <!-- Hero buttons -->
     <div class="hero-buttons-container">
       <a href="https://sportai.us4.list-manage.com/subscribe/post?u=b6ac61245dcf2d85acfd3db79&id=d7eeb7070f"
         target="_blank">
@@ -53,38 +60,23 @@
           Get early access
         </button>
       </a>
-      <!-- <a href="https://www.example.com">
-        <button class="secondary-button">
-          Watch the demo
-        </button>
-      </a> -->
     </div>
+    
+    <!-- Launchdate -->
     <div class="hero-launchdate">
       Coming to iOS later this year.
     </div>
+    
+    <!-- Teaser image -->
     <img src="./images/mockup.png" class="mockupImg">
+    
     <div class="social-buttons">
       <a href="https://www.facebook.com/SportAIOfficial/" target="_blank"><img src="./images/facebook.svg" class="opacity-hover"></a>
       <a href="https://www.instagram.com/sportaiofficial/" target="_blank"><img src="./images/instagram.svg" class="opacity-hover"></a>
       <a href="https://twitter.com/SportAIOfficial" target="_blank"><img src="./images/twitter.svg" class="opacity-hover"></a>
     </div>
   </section>
-  <!-- <section class="secondary-container">
-    <div class="secondary-container-title">Everything revolves around</div>
-    <img src="./images/score.png" class="scorePlusImg">
-  </section>
-
-  <div class="column-container">
-    <div class="left">One platform for everything</div>
-    <div class="right">Set your optimal lineup, compare athletes and teams, and get easy-to-understand metrics.</div>
-    
-    <div class="left">Lineups, optimized</div>
-    <div class="right">Choose up to 5 athletes per lineup and our intelligent model will tell you how likely you are to win.</div>
-    
-    <div class="left">One platform for everything</div>
-    <div class="right">Set your optimal lineup, compare athletes and teams, and get easy-to-understand metrics.</div>
-  </div> -->
-
+  
 </body>
 
 </html>
@@ -95,8 +87,6 @@
   }
 
   body {
-    /* background-color: white; */
-    /* background: radial-gradient(87.16% 246.54% at 74.4% 27.97%, #FFFFFF 0%, #DAE4EB 100%); */
     background-color: black;
     font-family: 'Inter', sans-serif;
     opacity: 0; 
@@ -104,16 +94,10 @@
   }
 
   .hero-container {
-    /* height: 100vh; */
     background: radial-gradient(87.16% 246.54% at 74.4% 27.97%, #FFFFFF 0%, #DAE4EB 100%);
-    /* box-sizing: border-box; */
-    /* width: 90vw; */
-    /* border-radius: 4px; */
     text-align: center;
-    margin: 0 auto;
-    /* margin-top: 20px; */
     padding: 20px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
   }
 
   .hero-title {
@@ -129,15 +113,12 @@
     margin-top: 40px;
     font-size: 24px;
     font-weight: bold;
-    /* opacity: 30%; */
     max-width: 780px;
     line-height: 32px;
   }
 
   .hero-launchdate {
     margin-top: 40px;
-    /* opacity: 30%; */
-    /* font-weight: bold; */
     font-size: 16px;
   }
 
@@ -160,8 +141,6 @@
     cursor: pointer;
     transition: opacity 0.1s;
     border: 0.5px solid rgba(0, 0, 0, 0.411);
-    /* filter: drop-shadow(0px 2px 3px rgba(0, 0, 0, 0.2)); */
-    /* box-shadow: 0 50px 100px -20px rgba(50,50,93,.25), 0 30px 60px -30px rgba(0, 0, 0, 0.884); */
   }
 
   button:hover {
@@ -170,10 +149,6 @@
 
   .main-button {
     background-color: black;
-    color: white;
-  }
-
-  .column-container {
     color: white;
   }
 
@@ -194,39 +169,23 @@
     letter-spacing: -1.5px;
   }
 
-  .scorePlusDescription {
-    color: white;
-    max-width: 600px;
-    margin: 0 auto;
-    font-size: 24px;
-    line-height: 100%;
-  }
-
   .mockupImg {
     max-width: 500px;
   }
 
-  .secondary-container-title {
-    color: white;
-    font-size: 54px;
-    font-weight: bold;
-    max-width: 80vw;
-    margin: 0 auto;
-  }
-
   .secondary-container {
-    margin-top: 200px;
-    height: 800px;
+    padding: 10px;
     text-align: center;
+    background: linear-gradient(90deg, #336499 -43%, rgba(0, 123, 255, 0.788) 34%, rgba(58, 153, 254, 0.897) 102.58%, #dfeeff 188%);;
+    vertical-align: middle;
   }
-
-  .scorePlusImg {
-    max-width: 1000px;
-    /* margin-top: 100px; */
+  
+  .blog-link {
+    color: white;
+    font-weight: 500;
   }
 
   .social-buttons {
-    /* background-color: red; */
     display: flex;
     justify-content: space-evenly;
     width: 200px;
@@ -287,18 +246,6 @@
 
     button {
       font-size: 16px;
-    }
-
-    .secondary-container {
-      margin-top: 100px;
-    }
-
-    .secondary-container-title {
-      font-size: 32px;
-    }
-
-    .scorePlusImg {
-      scale: 2;
     }
   }
 </style>

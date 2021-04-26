@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(245, 245, 245);
+  }
+  
+  .navigation {
+    padding: 20px;
+  }
+  
+  .logo-container {
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: -1.5px;
+    text-align: center;
+    max-width: 100px;
+    margin: 0 auto;
+  }
+  
+  .blog-posts-container {
+    /* background-color: lightgray; */
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: white;
+    color: black;
+    border-radius: 4px;
+    padding: 24px;
+    margin-bottom: 16px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    text-decoration: none;
+    transition: all 0.08s ease-in-out;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  li:hover {
+    opacity: 0.7;
+  }
+  
+  .post-date {
+    opacity: 0.5;
+    font-weight: 500;
+    font-size: 16px;
+  }
+</style>
+
+<body>
+  <div class="navigation">
+      <div class="logo-container">
+        <a href="{{ site.url }}" style="text-decoration: none; color: black;">
+          <img src="./images/logo.svg">
+          SportAI
+        </a>
+      </div>
+  </div>
+  
+  <div class="blog-posts-container">
+    <ul>
+      {% for post in site.posts %}
+        <a href="{{ post.url }}">
+          <li>
+            {{ post.title }}<br>
+            <span class="post-date">{{ post.date | date_to_long_string: "ordinal", "US" }}</span>
+          </li>
+        </a>
+      {% endfor %}
+    </ul>
+  </div>
+</body>
