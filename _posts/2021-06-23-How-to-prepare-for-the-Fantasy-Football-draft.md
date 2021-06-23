@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "How to prepare for the Fantasy Football draft with SportAI"
-date: [2021-06-24] [09:00:00] -0400
-categories: [fantasy football]
+date: 2021-06-24 09:00:00 -0400
+categories: fantasy football
 ---
 # How to prepare for the Fantasy Football draft with SportAI
 ![Header Image]({{site.baseurl}}/assets/images-posts/sportai-nfl-bw.png)
