@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to prepare for the Fantasy Football draft"
+title: "How to prepare for the Fantasy Football draft with SportAI"
 date: [2021-06-24] [09:00:00] -0400
 categories: [fantasy football]
 ---
