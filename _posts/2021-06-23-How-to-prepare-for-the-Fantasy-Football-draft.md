@@ -4,7 +4,7 @@ title: "How to prepare for the Fantasy Football draft with SportAI"
 date: [2021-06-24] [09:00:00] -0400
 categories: [fantasy football]
 ---
-# How to prepare for the Fantasy Football draft
+# How to prepare for the Fantasy Football draft with SportAI
 ![Header Image]({{site.baseurl}}/assets/images-posts/sportai-nfl-bw.png)
 
 With Fantasy Football season right around the corner, there’s a lot you can do to prepare for a killer draft. The team at SportAI has compiled a list of things you should keep an eye out for going into the draft.
