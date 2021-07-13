@@ -22,7 +22,9 @@ We already know how many fantasy “gurus” sell their snake oil advice. That�
 ## Run the numbers
 
 Don’t be intimidated by the statistics and data. This is what SportAI is here to help you with! Through our app, access our neural network trained by hundreds of thousands of data points which gives you a Score+.
+
 ![Header Image]({{site.baseurl}}/assets/images-posts/score.png)
+
 Score+ is a rating 1-100 judging how a player should perform in their upcoming game. Score+ gives you a purely objective, unbiased, AI determined rating.
 
 ## Keep it fun!
