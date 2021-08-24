@@ -11,7 +11,7 @@ NFL Pre-Season is coming to an end. Rosters are being finalized. Fantasy Drafts 
 
 How will COVID-19 affect the NFL Season?
 
-**The Numbers**
+### The Numbers
 
 According the most recent [official report](https://apnews.com/article/sports-nfl-health-coronavirus-pandemic-indianapolis-colts-bad1d99912dd5cfd78539bb755be122f):
 - 88.5% of players have had at least one shot of the vaccine
@@ -21,15 +21,15 @@ Based on these findings, perhaps the concern surrounding non-vaccinated players 
 
 However, there are still important rules the NFL has established regarding COVID-19.
 
-**League Rules:**
+### League Rules:
 1. Vaccines are not required
-2. Non-Vaccinated players must get daily COVID tests
+2. Non-vaccinated players must get daily COVID tests
 3. Discrepancies or negative tests immediately result in 5-day quarantine from the facility
-4. Non-Vaccinated players are required to always wear masks in facilities
+4. Non-vaccinated players are required to always wear masks in facilities
 
 Most importantly, if a team has a COVID outbreak among its unvaccinated players and the game cannot be re-scheduled during the 18-week season, they will have to forfeit the cancelled game and have it count as a loss on their season record. Teams also have the freedom to enforce individual rules. As a result, some teams have a [fully vaccinated roster](https://www.cbsnews.com/news/atlanta-falcons-covid-vaccine-100-percent-nfl/).
 
-**Implications for the Fantasy Football Season:**
+### Implications for the Fantasy Football Season:
 
 insert graphic here
 
