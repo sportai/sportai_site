@@ -5,6 +5,8 @@ date: 2021-08-25 11:56:00 -0400
 categories: covid football
 ---
 
+![Header Image]({{site.baseurl}}/assets/images-posts/covid-nfl.png)
+
 NFL Pre-Season is coming to an end. Rosters are being finalized. Fantasy Drafts are starting. But one concern amongst fans and players remains...
 
 How will COVID-19 affect the NFL Season?
