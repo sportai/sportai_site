@@ -105,7 +105,7 @@ We’ve separated the projections into three different tiers based on projected 
 |6   |Monte Morris          |PG     |67.37          |
 |7   |Doug McDermott        |SF     |66.47          |
 |8   |Isaac Okoro           |PF     |65.79          |
-|9   |Cameron Johnoon       |SF     |65.41          |
+|9   |Cameron Johnson       |SF     |65.41          |
 |10  |Seth Curry            |SG     |65.28          |
 |11  | Dorian Finney-Smith  |SF     |65.08          |
 |12  | Terance Mann         |SF     |64.92          |
