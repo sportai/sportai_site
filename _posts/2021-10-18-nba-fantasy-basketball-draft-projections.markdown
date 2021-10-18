@@ -5,8 +5,13 @@ date: 2021-10-18 3:50:00 -0400
 categories: basketball dfs
 ---
 
-SportAI ran the numbers to give us this 100% objective fantasy basketball draft projection for the 2021 – 2022 NBA season. There are some interesting predictions made by our AI. Cutting through the noise of “fantasy gurus” and keyboard warriors, this is what the statistics and data have to say.
-We’ve separated the projections into three different tiers based on projected DFS salaries so you can make data-informed draft decisions across the board, or preview which players to look out for in DFS this year. If you haven’t already, click [HERE](https://sportai.us4.list-manage.com/subscribe/post?u=b6ac61245dcf2d85acfd3db79&id=d7eeb7070f) to sign up for the SportAI private beta dropping October 25. Join the sports analytics revolution before anyone else and get a leg up on the competition!
+SportAI ran the numbers to give you this 100% objective fantasy basketball draft projection for the 2021–2022 NBA season. 
+
+There are some interesting predictions made by our AI. Cutting through the noise of “fantasy gurus” and keyboard warriors, this is what the statistics and data have to say.
+
+We’ve separated the projections into three different tiers based on projected DFS salaries. So you can make data-informed draft decisions across the board, or preview which players to watch for in DFS this year. 
+
+If you haven’t already, [sign up for the SportAI private beta](https://sportai.us4.list-manage.com/subscribe/post?u=b6ac61245dcf2d85acfd3db79&id=d7eeb7070f) dropping October 25. Join the sports analytics revolution before anyone else and get a leg up on the competition!
 
 
 ## Top-Tier Players: Projected Draft Kings Salary ~10k+ 
