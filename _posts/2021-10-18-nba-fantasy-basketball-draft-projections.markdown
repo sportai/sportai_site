@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NBA Fantasy 2021: Top Players By DFS Salary Tiers"
-date: 2021-10-19 3:30:00 -0400
+date: 2021-10-18 3:50:00 -0400
 categories: basketball dfs
 ---
 
