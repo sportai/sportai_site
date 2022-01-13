@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "N4NLQA88CW.io.sportai.SportAnalytics",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
