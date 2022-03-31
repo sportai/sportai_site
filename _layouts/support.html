@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(245, 245, 245);
+  }
+  
+  .navigation {
+    padding: 20px;
+  }
+  
+  .logo-container {
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: -1.5px;
+    text-align: center;
+    max-width: 100px;
+    margin: 0 auto;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    font-weight: bold;
+    font-size: 16px;
+    /* line-height: 32px; */
+    transition: all 0.08s ease-in-out;
+  }
+  
+  p {
+    padding-bottom: 16px;
+  }
+</style>
+
+<body>
+  <div class="navigation">
+      <div class="logo-container">
+        <a href="{{ site.url }}" style="text-decoration: none; color: black;">
+          <img src="./images/logo.svg">
+          SportAI
+        </a>
+      </div>
+  </div>
+  
+  <ul>
+    <h2>General</h2>
+    <li>Do you plan on adding other sports?</li>
+    <p>Yes, we plan to add more sports and their corresponding leagues in the future.</p>
+    <li>Is this app only on iOS?</li>
+    <p>The app is currently iOS only, but we plan to expand to Android in the future.</p>
+    <li>Is this a US based/owned company?</li>
+    <p>We are a technology company owned and operated in United States.</p>
+    <li>Contact</li>
+    <p>For support related to the app, message <a href="mailto:email@example.com">support@sportai.io</a>.</p>
+  </ul>
+  
+  <ul>
+    <h2>App</h2>
+    <li>How do I change leagues?</li>
+    <p>Use the league toggle button in the top right corner of the home screen.</p>
+    <li>What is Score+?</li>
+    <p>The definition of Score+ can be found by clicking the "What is Score+?" on the home screen.</p>
+  </ul>
+</body>
