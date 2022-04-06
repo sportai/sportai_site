@@ -47,15 +47,23 @@
       SportAI
     </div>
     
-    <img class="hero-img" src="./images/hero.png">
+    <p style="margin-top: 40px;">👋 Hey there! Our site is under construction for the beginning of April 2022.<br>Come back April 11th and everything should be up and running! 🏗</p>
     
     <h1 class="hero-title">
       Upgrade your fantasy sports strategy.
     </h1>
+    <!-- <button class="download-button">Download for free</button> -->
+    
+    <div class="hero-img-container">
+      <img class="hero-img img-transition" src="./images/hero.png">
+    </div>
+    
     <h2 class="hero-subtitle">
       If you want to spot league trends before your opponents, a better way to compare lineups, 
-      and a brand new way to optimize your budgets...<br><br>SportAI is for you.
+      and a brand new way to optimize your budgets...<br><br><span style="color:rgb(255, 255, 255)">SportAI is for you</span>.
     </h2>
+    
+    <!-- <button class="download-button">Download for free</button> -->
     
     <div class="features-container">
       <div class="feature-preview-container">
@@ -98,6 +106,8 @@
         <img class="feature-preview-img" src="./images/mockup.png">
       </div>
     </div>
+    
+    <!-- <button class="download-button">Download for free</button> -->
 
     <!-- Hero buttons -->
     <!-- <div class="hero-buttons-container">
@@ -110,18 +120,15 @@
     </div> -->
     
     <!-- Social Buttons -->
-    <!-- <div class="social-buttons">
+    <div class="social-buttons">
       <a href="https://www.facebook.com/SportAIOfficial/" target="_blank"><img src="./images/facebook.svg" class="opacity-hover"></a>
       <a href="https://www.instagram.com/sportaiofficial/" target="_blank"><img src="./images/instagram.svg" class="opacity-hover"></a>
       <a href="https://twitter.com/SportAIOfficial" target="_blank"><img src="./images/twitter.svg" class="opacity-hover"></a>
-    </div> -->
+    </div>
     
     <div class="links-container">
-      <!-- Support Page Link -->
-      <a class="link" href="/support.html">Support</a>
-      
-      <!-- Privacy Policy/Notice -->
       <a class="link" href="/assets/documents/privacy-policy.pdf">Privacy Notice</a>
+      <a class="link" href="/support.html">Support</a>
     </div>
   </section>
 </body>
@@ -131,6 +138,17 @@
 <style>
   * {
     margin: 0;
+  }
+  
+  .download-button {
+    background: linear-gradient(90deg, #336499 -43%, rgba(0, 123, 255, 0.788) 34%, rgba(58, 153, 254, 0.897) 102.58%, #dfeeff 188%);
+    color: white;
+    font-size: 16px;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    margin: 40px;
+    border-radius: 100px;
   }
 
   body {
@@ -162,6 +180,10 @@
     max-width: 780px;
     line-height: 32px;
   }
+  
+  .hero-img-container {
+    /* min-height: 1000px; */
+  }
 
   .hero-img {
     max-width: 90vw;
@@ -178,7 +200,6 @@
 
   button {
     font-weight: bold;
-    font-size: 24px;
     border-style: none;
     padding: 12px;
     padding-left: 35px;
@@ -186,7 +207,6 @@
     border-radius: 20px;
     cursor: pointer;
     transition: opacity 0.1s;
-    border: 0.5px solid rgba(255, 255, 255, 0.411);
   }
 
   button:hover {
@@ -203,10 +223,10 @@
   }
   
   .features-container {
-    margin-top: 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 100px;
   }
   
   .feature-preview-container {
@@ -219,9 +239,6 @@
     color: white;
     border-radius: 24px;
     padding: 32px;
-    /* display: flex; */
-    /* flex-wrap: wrap; */
-    /* justify-content: center; */
   }
   
   .feature-preview-title {
@@ -229,7 +246,6 @@
     line-height: 120%;
     min-height: 32px;
     text-align: left;
-    /* justify-content: left; */
   }
   
   .feature-preview-subtitle {
@@ -283,7 +299,7 @@
     margin-top: 100px;
     box-sizing: border-box;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 200px;
     border: 0.5px solid rgb(190, 190, 190);
   }
@@ -326,6 +342,10 @@
       font-size: 16px;
     }
     
+    .features-container {
+      margin-top: 32px;
+    }
+    
     .feature-preview-container {
       max-width: 90vw;
       margin-left: 0;
@@ -336,3 +356,23 @@
     }
   }
 </style>
+
+<!-- <script>
+  // Remove the transition class
+  const heroImg = document.querySelector('.hero-img');
+  heroImg.classList.remove('img-transition');
+  
+  // Create the observer
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        heroImg.classList.add('img-transition');
+        return;
+      }
+      
+      heroImg.classList.remove('img-transition');
+    })
+  })
+  
+  observer.observe(document.querySelector('.hero-img'))
+</script> -->
