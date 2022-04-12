@@ -43,16 +43,19 @@
   <section class="hero-container">
     <!-- Hero text content -->
     <div class="logo-container">
-      <img src="./images/logo.svg">
+      <img src="./images/logoWhite.svg">
       SportAI
     </div>
-    
-    <p style="margin-top: 40px;">👋 Hey there! Our site is under construction for the beginning of April 2022.<br>Come back April 11th and everything should be up and running! 🏗</p>
     
     <h1 class="hero-title">
       Upgrade your fantasy sports strategy.
     </h1>
-    <!-- <button class="download-button">Download for free</button> -->
+    
+    <a href="https://apps.apple.com/us/app/sportai/id1563830545" target="_blank">
+      <button class="download-button">
+        <img class="app-store-badge" src="./images/appStoreBadge.svg">
+      </button>
+    </a>
     
     <div class="hero-img-container">
       <img class="hero-img img-transition" src="./images/hero.png">
@@ -63,8 +66,6 @@
       and a brand new way to optimize your budgets...<br><br><span style="color:rgb(255, 255, 255)">SportAI is for you</span>.
     </h2>
     
-    <!-- <button class="download-button">Download for free</button> -->
-    
     <div class="features-container">
       <div class="feature-preview-container">
         <h3 class="feature-preview-title">
@@ -73,7 +74,7 @@
         <div class="feature-preview-subtitle">
           Compare two lineups, Lineup X and Lineup Y, and we'll use Score+ to predict which one will win.
         </div>
-        <img class="feature-preview-img" src="./images/mockup.png">
+        <img class="feature-preview-img" src="./images/compare-lineups-screenshot.png">
       </div>
       
       <div class="feature-preview-container">
@@ -83,7 +84,7 @@
         <div class="feature-preview-subtitle">
           Enter you personal budget and up to 10 players you're considering. Our intelligent algorithms will choose the best value lineup for your money.
         </div>
-        <img class="feature-preview-img" src="./images/mockup.png">
+        <img class="feature-preview-img" src="./images/salary-optimizer-screenshot.png">
       </div>
     
       <div class="feature-preview-container">
@@ -93,7 +94,7 @@
         <div class="feature-preview-subtitle">
           Spot trends early with interactive graphs on profiles specifically tailored for fantasy sports players like you. No more boring and complicated analysis.
         </div>
-        <img class="feature-preview-img" src="./images/mockup.png">
+        <img class="feature-preview-img" src="./images/data-visualizations-screenshot.png">
       </div>
       
       <div class="feature-preview-container">
@@ -101,13 +102,11 @@
           Leagues
         </h3>
         <div class="feature-preview-subtitle">
-          We support NBA and NFL, with more leagues to come. Our eyes are set next on soccer.
+          We support NBA and NFL, with more leagues to come. Stay tuned to find out what we build next.
         </div>
-        <img class="feature-preview-img" src="./images/mockup.png">
+        <img class="feature-preview-img" src="./images/leagues-screenshot.png">
       </div>
     </div>
-    
-    <!-- <button class="download-button">Download for free</button> -->
 
     <!-- Hero buttons -->
     <!-- <div class="hero-buttons-container">
@@ -118,6 +117,13 @@
         </button>
       </a>
     </div> -->
+    
+    <a href="https://apps.apple.com/us/app/sportai/id1563830545" target="_blank">
+      <button class="download-button">
+        <img class="app-store-badge" src="./images/appStoreBadge.svg">
+      </button>
+    </a>
+    
     
     <!-- Social Buttons -->
     <div class="social-buttons">
@@ -141,14 +147,19 @@
   }
   
   .download-button {
-    background: linear-gradient(90deg, #336499 -43%, rgba(0, 123, 255, 0.788) 34%, rgba(58, 153, 254, 0.897) 102.58%, #dfeeff 188%);
-    color: white;
-    font-size: 16px;
+    /* background: linear-gradient(90deg, #336499 -43%, rgba(0, 123, 255, 0.788) 34%, rgba(58, 153, 254, 0.897) 102.58%, #dfeeff 188%); */
+    background-color: transparent;
+    /* color: white; */
+    /* font-size: 16px; */
     top: 0;
     right: 0;
     z-index: 2;
     margin: 40px;
-    border-radius: 100px;
+    /* border-radius: 100px; */
+  }
+  
+  .app-store-badge {
+    min-width: 150px;
   }
 
   body {
