@@ -17,22 +17,37 @@
 </section>
 
 <div class="social-buttons">
-  <a href="https://www.facebook.com/SportAIOfficial/" target="_blank"><img src="{{ site.url }}/images/facebook.svg" class="opacity-hover"></a>
-  <a href="https://www.instagram.com/sportaiofficial/" target="_blank"><img src="{{ site.url }}/images/instagram.svg" class="opacity-hover"></a>
-  <a href="https://twitter.com/SportAIOfficial" target="_blank"><img src="{{ site.url }}/images/twitter.svg" class="opacity-hover"></a>
+  <a href="https://www.facebook.com/SportAIOfficial/" target="_blank"><img src="{{ site.url }}/images/facebook.png" class="opacity-hover"></a>
+  <a href="https://www.instagram.com/sportaiofficial/" target="_blank"><img src="{{ site.url }}/images/instagram.png" class="opacity-hover"></a>
+  <a href="https://twitter.com/SportAIOfficial" target="_blank"><img src="{{ site.url }}/images/twitter.png" class="opacity-hover"></a>
+  <a href="https://discord.gg/r5MtJ53ppE" target="_blank"><img src="{{ site.url }}/images/discord.png" class="opacity-hover"></a>
 </div>
 
 <style>
-    .social-buttons {
+  .social-buttons {
     display: flex;
     justify-content: space-evenly;
+    flex-direction: row;
+    justify-content: center;
     width: 200px;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 40px;
     box-sizing: border-box;
     padding: 20px;
-    background-color: rgba(217, 219, 226, 0.678);
+    background: linear-gradient(90deg, #91aecb -43%, rgba(255, 255, 255, 0.949) 34%, rgba(240, 244, 255, 0.944) 102.58%, #ffffff 188%);
     border-radius: 200px;
     border: 0.5px solid rgb(190, 190, 190);
+    align-items: center;
+  }
+  
+  .social-buttons > * {
+    text-align: center;
+    display: inline-block;
+  }
+  
+  .opacity-hover {
+    transition: opacity 0.1s;
+    max-width: 20px;
+    padding: 8px;
   }
 </style>
