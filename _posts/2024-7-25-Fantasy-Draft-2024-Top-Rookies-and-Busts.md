@@ -1,5 +1,5 @@
 
-##NFL Fantasy Draft 2024: Top Rookies and Busts 
+## NFL Fantasy Draft 2024: Top Rookies and Busts 
 
 During the NFL season, many rookies significantly impact their respective teams. For example, in 2023, CJ Stroud was a top-ten QB. Bijan Robinson and Jamhyr Gibbs were top-ten RBs. Puka Nacua was a top-five wide receiver. Finally, Sam LaPorta was the top tight end in fantasy after an impressive season. Therefore, there is a lot of potential to get undervalued rookies in the draft who can become league winners. 
 
@@ -20,7 +20,7 @@ Date: November 19, 2022)
 
 However, after Harrison Jr. and Nabers, fantasy draft rankings are conflicted on the best rookies, considering the top QBs, RBs, WRs, and TEs from the loaded 2024 draft. 
 
-####Rookie TE Bust Alert
+#### Rookie TE Bust Alert
 
 Heading into the 2024 NFL Draft, Brock Bowers was the best prospect since Kyle Pitts. Unluckily, he was drafted by the Las Vegas Raiders, who already have Michael Mayer, a top tight end prospect from the 2023 draft. The team also has Davante Adams, who will take targets from Mayer and Bowers. Furthermore, Mayer only had 40 targets in his rookie year last year. The Raiders also have a troubling quarterback situation, with second-year Aidan O'Connell ranking 32nd in catchable pass rate, worsening the situation for Bowers. Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receive most of O’Connell’s targets. 
 
@@ -28,11 +28,11 @@ Heading into the 2024 NFL Draft, Brock Bowers was the best prospect since Kyle P
 
 (Athlete: Brock Bowers, Source: Wikimedia Commons, Photograph by BullDawg2021 Date: January 15, 2022)
 
-####Rookie RB Bust Alert
+#### Rookie RB Bust Alert
 
 Contrastingly, the 2024 NFL draft did not have top RB talent like in 2023, which saw two RBs go in the top 12. Instead, it took until the second round that we saw the first RB go off the draft board: Jonathan Brooks. After a torn ACL injury that cut his 2023 season short, Brooks entered the draft as the top RB prospect. Many draft analysts promote Brooks as a steal who could compete for the RB1 spot in Carolina. However, Chuba Hubbard remains as the RB1 for the Panthers, so it would be best to conserve a late-round draft pick for Brooks. If Brooks gets injured and Hubbard performs well, he will be a bust for the 2024-2025 NFL season. 
 
-####2024 NFL Draft Top Rookie and Busts Summary 
+#### 2024 NFL Draft Top Rookie and Busts Summary 
 
 The 2024 NFL Draft was loaded with offensive talent, boasting three WRs taken in the top ten picks. These WRs are great picks if players can get them below their ADP. Nevertheless, some players may become busts this season: Jonathan Brooks and Brock Bowers. Unfortunately, these two were drafted into unideal situations, competing for the RB1 position against Chuba Hubbard and the TE1 spot against Michael Mayer. Ultimately, **aspiring Fantasy Football League winners** should **consider 2024 NFL rookies** if they can draft them **below their ADP** since they can **provide serious value**. However, they should **avoid potential busts or underperforming players.**
 
