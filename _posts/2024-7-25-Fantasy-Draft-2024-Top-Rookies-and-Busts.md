@@ -1,8 +1,7 @@
 
 During the NFL season, many rookies significantly impact their respective teams. For example, in 2023, CJ Stroud was a top-ten QB. Bijan Robinson and Jamhyr Gibbs were top-ten RBs. Puka Nacua was a top-five wide receiver. Finally, Sam LaPorta was the top tight end in fantasy after an impressive season. Therefore, there is a lot of potential to get undervalued rookies in the draft who can become league winners. 
 
-![An image of Sam LaPorta in his Iowa Hawkeyes jersey.](
-https://commons.wikimedia.org/wiki/File:SamLaPorta.jpg)
+![An image of Sam LaPorta in his Iowa Hawkeyes jersey.]({{site.baseurl}}/assets/images-posts/432px-SamLaPorta.png)
 
 (Athlete: Sam LaPorta Source: Wikimedia Commons, Photograph by Maize & Blue Nation, Date: December 4, 2021) 
 Heading: Top Rookies for the 2024-2025 NFL season
@@ -12,7 +11,7 @@ Excitingly, there was a lot of top talent in the 2024 NFL draft, with ESPN draft
 
 Similarly, Malik Nabers will enter the New York Giants system as the WR1 and the consensus number two rookie in fantasy drafts. He is a top dynasty draft pick alongside Marvin Harrison Jr. and will be drafted as a **lower-tier WR2** with an ADP of around 49. Nabers will receive many targets from Daniel Jones, who could revitalize himself into a **top-ten QB.** 
 
-![A picture of Marvin Harrison Jr. in his Ohio State jersey. He was drafted with the number four draft pick by the Arizona Cardinals in the 2024 NFL Draft.](https://commons.wikimedia.org/wiki/File:Marvin_Harrison_Jr_2022_no_helmet_%28cropped%29.jpg)
+![A picture of Marvin Harrison Jr. in his Ohio State jersey. He was drafted with the number four draft pick by the Arizona Cardinals in the 2024 NFL Draft.]({{site.baseurl}}/assets/images-posts/600px-Marvin_Harrison_Jr_2022_no_helmet_28cropped29.png)
 
 (Athlete: Marvin Harrison Jr. Source: Wikimedia Commons, Photograph by Alexander Jonesi, 
 Date: November 19, 2022)
@@ -23,7 +22,7 @@ However, after Harrison Jr. and Nabers, fantasy draft rankings are conflicted on
 
 Heading into the 2024 NFL Draft, Brock Bowers was the best prospect since Kyle Pitts. Unluckily, he was drafted by the Las Vegas Raiders, who already have Michael Mayer, a top tight end prospect from the 2023 draft. The team also has Davante Adams, who will take targets from Mayer and Bowers. Furthermore, Mayer only had 40 targets in his rookie year last year. The Raiders also have a troubling quarterback situation, with second-year Aidan O'Connell ranking 32nd in catchable pass rate, worsening the situation for Bowers. Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receive most of O’Connell’s targets. 
 
-![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, at the Georgia championship parade.](https://commons.wikimedia.org/wiki/File:Brock_Bowers.jpg)
+![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, at the Georgia championship parade.]({{site.baseurl}}/assets/images-posts/168px-Brock_Bowers.png)
 
 (Athlete: Brock Bowers, Source: Wikimedia Commons, Photograph by BullDawg2021 Date: January 15, 2022)
 
