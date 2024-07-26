@@ -4,7 +4,6 @@ During the NFL season, many rookies significantly impact their respective teams.
 ![An image of Sam LaPorta in his Iowa Hawkeyes jersey.]({{site.baseurl}}/assets/images-posts/432px-SamLaPorta.png)
 
 (Athlete: Sam LaPorta Source: Wikimedia Commons, Photograph by Maize & Blue Nation, Date: December 4, 2021) 
-Heading: Top Rookies for the 2024-2025 NFL season
 
 #### Top WR Talent
 Excitingly, there was a lot of top talent in the 2024 NFL draft, with ESPN draft analyst, Matt Miller, touting Marvin Harrison Jr. as the **best WR prospect** since 2010. He also drew comparisons to Randy Moss, Julio Jones, and AJ Green, hyping him up to be a generational talent. Accordingly, he is the consensus number-one rookie in fantasy drafts, with a projected ADP of around 16. Harrison Jr. will likely receive most of Kyler Murray’s targets as the **WR1.** However, Trey Mcrbride may hinder Harrison Jr.’s statistics since he is widely regarded as a **top-three tight end**. 
