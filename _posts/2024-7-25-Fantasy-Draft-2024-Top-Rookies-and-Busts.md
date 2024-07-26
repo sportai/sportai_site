@@ -53,7 +53,7 @@ However, Chuba Hubbard remains as the RB1 for the Panthers, so it would be best 
 
 #### 2024 NFL Draft Top Rookie and Busts Summary 
 
-The 2024 NFL Draft was loaded with offensive talent, boasting three WRs taken in the top ten picks. These WRs are great picks if players can get them below their ADP. Nevertheless, some players may become busts this season: Jonathan Brooks and Brock Bowers. 
+The 2024 NFL Draft was loaded with offensive talent, boasting three top WRs taken in the top ten picks. Nevertheless, some players may become busts this season: Jonathan Brooks and Brock Bowers. 
 
 Unfortunately, these two were drafted into unideal situations, competing for the RB1 position against Chuba Hubbard and the TE1 spot against Michael Mayer. 
 
@@ -65,7 +65,7 @@ Check out [SportAI.io](https://sportai.io/), the **all-inclusive fantasy sports 
 
 SportAI uses its **unique Score+ metric** from its in-house algorithms to **project future fantasy performance** relative to other players. 
 
-The statistic accounts for **performance variance** and **goes beyond normal benchmarks**, using data points such as injuries, team achievement, opponent performance, and more.
+The statistic accounts for **performance variance** and **goes beyond normal benchmarks**, using data points such as injuries, team achievement, and more.
 
 
 
