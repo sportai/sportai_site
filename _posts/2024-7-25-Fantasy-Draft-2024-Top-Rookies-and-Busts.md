@@ -32,7 +32,7 @@ However, after Harrison Jr. and Nabers, fantasy draft rankings are conflicted on
 
 Heading into the 2024 NFL Draft, Brock Bowers was the best prospect since Kyle Pitts. 
 
-Unluckily, he was drafted by the Las Vegas Raiders, who already have Michael Mayer, a top tight end prospect from the 2023 draft. The team also has Davante Adams, who will take targets from Mayer and Bowers. Furthermore, Mayer only had 40 targets in his rookie year last year.
+Unluckily, he was drafted by the Las Vegas Raiders, who already have Michael Mayer, a top tight end prospect from the 2023 draft who only had 40 targets in his rookie year. The team also has Davante Adams, who will take targets from Mayer and Bowers.
 
 The Raiders also have a troubling quarterback situation, with second-year Aidan O'Connell ranking 32nd in catchable pass rate, worsening the situation for Bowers. 
 
@@ -47,7 +47,7 @@ Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receiv
 
 Contrastingly, the 2024 NFL draft did not have top RB talent like in 2023, which saw two RBs go in the top 12. 
 
-Instead, it took until the second round that we saw the first RB go off the draft board: Jonathan Brooks. After a torn ACL injury that cut his 2023 season short, Brooks entered the draft as the top RB prospect. Many draft analysts promote Brooks as a steal who could compete for the RB1 spot in Carolina.
+Instead, it took until the second round that we saw the first RB go off the draft board: Jonathan Brooks. After a torn ACL injury that cut his 2023 season short, Brooks entered the draft as a steal who could compete for an RB1 spot.
 
 However, Chuba Hubbard remains as the RB1 for the Panthers, so it would be best to conserve a late-round draft pick for Brooks. If Brooks gets injured and Hubbard performs well, he will be a bust for the 2024-2025 NFL season.
 
@@ -55,13 +55,17 @@ However, Chuba Hubbard remains as the RB1 for the Panthers, so it would be best 
 
 The 2024 NFL Draft was loaded with offensive talent, boasting three WRs taken in the top ten picks. These WRs are great picks if players can get them below their ADP. Nevertheless, some players may become busts this season: Jonathan Brooks and Brock Bowers. 
 
-Unfortunately, these two were drafted into unideal situations, competing for the RB1 position against Chuba Hubbard and the TE1 spot against Michael Mayer. Ultimately, **aspiring Fantasy Football League winners** should **consider 2024 NFL rookies** if they can draft them **below their ADP** since they can **provide serious value**. However, they should **avoid potential busts or underperforming players.**
+Unfortunately, these two were drafted into unideal situations, competing for the RB1 position against Chuba Hubbard and the TE1 spot against Michael Mayer. 
+
+Ultimately, **aspiring Fantasy Football League winners** should **consider 2024 NFL rookies** if they can draft them **below their ADP** since they can **provide serious value**. However, they should **avoid potential busts or underperforming players.**
 
 Looking for **more rankings** and **free** fantasy tools? 
 
 Check out [SportAI.io](https://sportai.io/), the **all-inclusive fantasy sports app** that provides the **necessary tools** to compare lineups and determine starting or benching a player **effectively**. 
 
-SportAI uses its **unique Score+ metric** from its in-house algorithms to **project future fantasy performance** relative to other players. The statistic accounts for **performance variance** and **goes beyond normal benchmarks**, using data points such as injuries, team achievement, opponent performance, and more.
+SportAI uses its **unique Score+ metric** from its in-house algorithms to **project future fantasy performance** relative to other players. 
+
+The statistic accounts for **performance variance** and **goes beyond normal benchmarks**, using data points such as injuries, team achievement, opponent performance, and more.
 
 
 
