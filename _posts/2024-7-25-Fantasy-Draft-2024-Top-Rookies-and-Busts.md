@@ -9,14 +9,20 @@ Therefore, there is a lot of potential to get undervalued rookies in the draft w
 <span style="font-size:0.5em;">(Athlete: Sam LaPorta Source: Wikimedia Commons, Photograph by Maize & Blue Nation, Date: December 4, 2021) </span>
 
 #### Top WR Talent
-Excitingly, there was a lot of top talent in the 2024 NFL draft, with ESPN draft analyst, Matt Miller, touting Marvin Harrison Jr. as the **best WR prospect** since 2010. He also drew comparisons to Randy Moss, Julio Jones, and AJ Green, hyping him up to be a generational talent. Accordingly, he is the consensus number-one rookie in fantasy drafts, with a projected ADP of around 16. Harrison Jr. will likely receive most of Kyler Murray’s targets as the **WR1.** However, Trey Mcrbride may hinder Harrison Jr.’s statistics since he is widely regarded as a **top-three tight end**. 
+Excitingly, there was a lot of top talent in the 2024 NFL draft. 
 
-Similarly, Malik Nabers will enter the New York Giants system as the WR1 and the consensus number two rookie in fantasy drafts. He is a top dynasty draft pick alongside Marvin Harrison Jr. and will be drafted as a **lower-tier WR2** with an ADP of around 49. Nabers will receive many targets from Daniel Jones, who could revitalize himself into a **top-ten QB.** 
+ESPN draft analyst, Matt Miller, touted Marvin Harrison Jr. as the **best WR prospect** since 2010. He also drew comparisons to Randy Moss, Julio Jones, and AJ Green. Accordingly, he is the consensus number-one rookie in fantasy drafts, with a projected ADP of around 16. Harrison Jr. will likely receive most of Kyler Murray’s targets as the **WR1.** 
+
+However, Trey Mcrbride may hinder Harrison Jr.’s statistics since he is widely regarded as a **top-three tight end**. 
+
+Similarly, Malik Nabers will enter the New York Giants system as the WR1 and the consensus number two rookie in fantasy drafts. 
+
+He is a top dynasty draft pick alongside Marvin Harrison Jr. and will be drafted as a **lower-tier WR2** with an ADP of around 49. Nabers will receive many targets from Daniel Jones, who could revitalize himself into a **top-ten QB.** 
 
 ![A picture of Marvin Harrison Jr. in his Ohio State jersey. He was drafted with the number four draft pick by the Arizona Cardinals in the 2024 NFL Draft.]({{site.baseurl}}/assets/images-posts/600px-Marvin_Harrison_Jr_2022_no_helmet_28cropped29.png)
 
-(Athlete: Marvin Harrison Jr. Source: Wikimedia Commons, Photograph by Alexander Jonesi, 
-Date: November 19, 2022)
+<span style="font-size:0.5em;">(Athlete: Marvin Harrison Jr. Source: Wikimedia Commons, Photograph by Alexander Jonesi, 
+Date: November 19, 2022) </span>
 
 However, after Harrison Jr. and Nabers, fantasy draft rankings are conflicted on the best rookies, considering the top QBs, RBs, WRs, and TEs from the loaded 2024 draft. 
 
@@ -26,7 +32,8 @@ Heading into the 2024 NFL Draft, Brock Bowers was the best prospect since Kyle P
 
 ![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, at the Georgia championship parade.]({{site.baseurl}}/assets/images-posts/168px-Brock_Bowers.png)
 
-(Athlete: Brock Bowers, Source: Wikimedia Commons, Photograph by BullDawg2021 Date: January 15, 2022)
+<span style="font-size:0.5em;">(Athlete: Brock Bowers, Source: Wikimedia Commons, Photograph by BullDawg2021 Date: January 15, 2022)</span>
+
 
 #### Rookie RB Bust Alert
 
