@@ -59,6 +59,8 @@ Unfortunately, these two were drafted into unideal situations, competing for the
 
 Ultimately, **aspiring Fantasy Football League winners** should **consider 2024 NFL rookies** if they can draft them **below their ADP** since they can **provide serious value**. However, they should **avoid potential busts or underperforming players.**
 
+#### New Free Fantasy Sports AI Tool 
+
 Looking for **more rankings** and **free** fantasy tools? 
 
 Check out [SportAI.io](https://sportai.io/), the **all-inclusive fantasy sports app** that provides the **necessary tools** to compare lineups and determine starting or benching a player **effectively**. 
