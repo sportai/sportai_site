@@ -11,7 +11,9 @@ Therefore, there is a lot of potential to get undervalued rookies in the draft w
 #### Top WR Talent
 Excitingly, there was a lot of top talent in the 2024 NFL draft. 
 
-ESPN draft analyst, Matt Miller, touted Marvin Harrison Jr. as the **best WR prospect** since 2010. He also drew comparisons to Randy Moss, Julio Jones, and AJ Green. Accordingly, he is the consensus number-one rookie in fantasy drafts, with a projected ADP of around 16. Harrison Jr. will likely receive most of Kyler Murray’s targets as the **WR1.** 
+ESPN draft analyst, Matt Miller, touted Marvin Harrison Jr. as the **best WR prospect** since 2010. He also drew comparisons to Randy Moss, Julio Jones, and AJ Green. 
+
+Accordingly, he is the consensus number-one rookie in fantasy drafts, with a projected ADP of around 16. Harrison Jr. will likely receive most of Kyler Murray’s targets as the **WR1.** 
 
 However, Trey Mcrbride may hinder Harrison Jr.’s statistics since he is widely regarded as a **top-three tight end**. 
 
