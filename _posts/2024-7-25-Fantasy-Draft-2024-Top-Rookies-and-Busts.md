@@ -1,9 +1,12 @@
 
-During the NFL season, many rookies significantly impact their respective teams. For example, in 2023, CJ Stroud was a top-ten QB. Bijan Robinson and Jamhyr Gibbs were top-ten RBs. Puka Nacua was a top-five wide receiver. Finally, Sam LaPorta was the top tight end in fantasy after an impressive season. Therefore, there is a lot of potential to get undervalued rookies in the draft who can become league winners. 
+During the NFL season, many rookies significantly impact their respective teams. 
+
+For example, in 2023, CJ Stroud was a top-ten QB. Bijan Robinson and Jamhyr Gibbs were top-ten RBs. Puka Nacua was a top-five wide receiver. Finally, Sam LaPorta was the top tight end in fantasy after an impressive season. 
+
+Therefore, there is a lot of potential to get undervalued rookies in the draft who can become league winners. 
 
 ![An image of Sam LaPorta in his Iowa Hawkeyes jersey.]({{site.baseurl}}/assets/images-posts/432px-SamLaPorta.png)
-
-(Athlete: Sam LaPorta Source: Wikimedia Commons, Photograph by Maize & Blue Nation, Date: December 4, 2021) 
+<span style="font-size:0.5em;">(Athlete: Sam LaPorta Source: Wikimedia Commons, Photograph by Maize & Blue Nation, Date: December 4, 2021) </span>
 
 #### Top WR Talent
 Excitingly, there was a lot of top talent in the 2024 NFL draft, with ESPN draft analyst, Matt Miller, touting Marvin Harrison Jr. as the **best WR prospect** since 2010. He also drew comparisons to Randy Moss, Julio Jones, and AJ Green, hyping him up to be a generational talent. Accordingly, he is the consensus number-one rookie in fantasy drafts, with a projected ADP of around 16. Harrison Jr. will likely receive most of Kyler Murray’s targets as the **WR1.** However, Trey Mcrbride may hinder Harrison Jr.’s statistics since he is widely regarded as a **top-three tight end**. 
