@@ -36,7 +36,7 @@ The Raiders also have a troubling quarterback situation, with second-year Aidan 
 
 Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receive most of O’Connell’s targets. 
 
-![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, in his Georgia Bulldogs uniform](https://firstroundmock.com/2024/02/brock-bowers-hall-of-fame-grade/)
+![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, in his Georgia Bulldogs uniform](https://firstroundmock.com/wp-content/uploads/2023/08/bowerss.jpeg)
 
 <span style="font-size:0.5em;">(Athlete: Brock Bowers, Source: firstroundmock.com, Photograph by Todd Kirkland/Getty Images Date: November 25, 2023)</span>
 
