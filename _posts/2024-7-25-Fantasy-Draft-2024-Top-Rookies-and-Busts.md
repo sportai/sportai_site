@@ -28,11 +28,17 @@ However, after Harrison Jr. and Nabers, fantasy draft rankings are conflicted on
 
 #### Rookie TE Bust Alert
 
-Heading into the 2024 NFL Draft, Brock Bowers was the best prospect since Kyle Pitts. Unluckily, he was drafted by the Las Vegas Raiders, who already have Michael Mayer, a top tight end prospect from the 2023 draft. The team also has Davante Adams, who will take targets from Mayer and Bowers. Furthermore, Mayer only had 40 targets in his rookie year last year. The Raiders also have a troubling quarterback situation, with second-year Aidan O'Connell ranking 32nd in catchable pass rate, worsening the situation for Bowers. Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receive most of O’Connell’s targets. 
+Heading into the 2024 NFL Draft, Brock Bowers was the best prospect since Kyle Pitts. 
 
-![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, at the Georgia championship parade.]({{site.baseurl}}/assets/images-posts/168px-Brock_Bowers.png)
+Unluckily, he was drafted by the Las Vegas Raiders, who already have Michael Mayer, a top tight end prospect from the 2023 draft. The team also has Davante Adams, who will take targets from Mayer and Bowers. Furthermore, Mayer only had 40 targets in his rookie year last year.
 
-<span style="font-size:0.5em;">(Athlete: Brock Bowers, Source: Wikimedia Commons, Photograph by BullDawg2021 Date: January 15, 2022)</span>
+The Raiders also have a troubling quarterback situation, with second-year Aidan O'Connell ranking 32nd in catchable pass rate, worsening the situation for Bowers. 
+
+Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receive most of O’Connell’s targets. 
+
+![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, in his Georgia Bulldogs uniform](https://firstroundmock.com/2024/02/brock-bowers-hall-of-fame-grade/)
+
+<span style="font-size:0.5em;">(Athlete: Brock Bowers, Source: firstroundmock.com, Photograph by Todd Kirkland/Getty Images Date: November 25, 2023)</span>
 
 
 #### Rookie RB Bust Alert
