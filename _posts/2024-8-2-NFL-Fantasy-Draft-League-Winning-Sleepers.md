@@ -46,11 +46,17 @@ However, Samuel is now a Buffalo Bill. The **Bills have Joe Brady** as their off
 
 Likewise, Samuel has a **top-tier rushing ability**, which makes him a valuable asset to the Bills offense. The Bills also have a dominant quarterback Josh Allen, who will help Samuel achieve his potential as a *top-20 fantasy wide receiver*. 
 
-The Bills also lost **WR1 Stefon Diggs and Gabe Davis**, which opens the door for Samuel to get a significant amount of targets. He also is coming off of back-to-back seasons with 60+ catches in Washington, showcasing his consistency. 
+The Bills also lost **WR1 Stefon Diggs and Gabe Davis**, which opens the door for Samuel to get a significant amount of targets. He also comes off of back-to-back seasons with 60+ catches in Washington, showcasing his consistency. 
 
 Overall, Samuel’s *ADP is 111.71*, indicating that he is drafted in the 11th round, making him a spectacular steal for teams prioritizing other positions and wanting to invest in a low-risk high-reward player. 
 
 With Joe Brady as his OC and Josh Allen as his quarterback, Curtis Samuel is **primed** for a huge season as a **primary playmaker** for the Bills. 
+
+
+![An image of Buffalo Bills WR Curtis Samuel, who is expected to be a top playmaker for Josh Allen in the 2024 season](https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MjA1MDkxMDU3ODIwNTA5OTQ4/curtis-samuel-.webp)
+
+(Athlete: Curtis Samuel Source: si.com Photograph by Joe Nicholson, USA TODAY, Date: March 18, 2024) 
+
 
 #### Late-round League-winner player summary
 
