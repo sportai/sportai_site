@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Fantasy Football 2024: Top Rookies and Busts"
+date: 2024-7-25
+categories: fantasy football draft
+---
 During the NFL season, many rookies significantly impact their respective teams. 
 
 For example, in 2023, CJ Stroud was a top-ten QB. Bijan Robinson and Jamhyr Gibbs were top-ten RBs. Puka Nacua was a top-five wide receiver. Finally, Sam LaPorta was the top tight end in fantasy after an impressive season. 
