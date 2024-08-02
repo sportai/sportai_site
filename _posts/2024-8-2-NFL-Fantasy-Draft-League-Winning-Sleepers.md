@@ -1,4 +1,3 @@
-## NFL Fantasy Draft 2024: Top Fantasy Football League-Winning Sleepers
 
 <span style="font-size:2em;">L</span>ate-round league winners can determine a fantasy football season. These players are the difference between becoming the champion versus not even making the playoffs. For example, Puka Nacua in 2023 was drafted as a late-round sleeper but turned out to be a top-five wide receiver. Therefore, there are a lot of **low-risk** picks that can return *serious value* for a team. 
 
