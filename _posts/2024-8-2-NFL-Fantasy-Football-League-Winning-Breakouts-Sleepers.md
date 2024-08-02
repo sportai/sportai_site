@@ -7,7 +7,7 @@ categories: fantasy football draft
 <span style="font-size:2em;">L</span>ate-round league winners can determine a fantasy football season. These players are the difference between becoming the champion versus not even making the playoffs. For example, Puka Nacua in 2023 was drafted as a late-round sleeper but turned out to be a top-five wide receiver. Therefore, there are a lot of **low-risk** picks that can return *serious value* for a team. 
 
 ![An image of Puka Nacua, a top-5 wide receiver during his rookie season in 2023.](https://s26980.pcdn.co/wp-content/uploads/2023/10/Puka-Nacua-3.jpg)
- (Athlete: Puka Nacua Source: ramsnewswire.com, Photograph by Gary A. Vasquez-USA TODAY Sports, Date: March 1st, 2024) 
+<span style="font-size:0.5em;">(Athlete: Puka Nacua Source: ramsnewswire.com, Photograph by Gary A. Vasquez-USA TODAY Sports, Date: March 1st, 2024)</span>
 
 #### Top QB Sleeper 
 
@@ -22,8 +22,7 @@ The Titans have also signed **RB Tony Pollard** and **WR Calvin Ridley** in free
 Overall, Callahan’s arrival will help Levis develop into a **pass-first quarterback**, and the Titan’s new additions in free agency give Levis many options to **perform well** in fantasy this year. His ranking as a QB27 labels Levis as a *late-round steal* for teams who can get him. 
 
 ![ An image of Tennessee Titans QB Will Levis, who had an impressive rookie campaign in 2023.](https://nypost.com/wp-content/uploads/sites/2/2023/10/levis-copy-1.jpg?quality=75&strip=all)
-
-(Athlete: Will Levis Source: nypost.com, Photograph by Getty Images, Date: October 30, 2023) 
+<span style="font-size:0.5em;">(Athlete: Will Levis Source: nypost.com, Photograph by Getty Images, Date: October 30, 2023)</span>
 
 #### Top RB Sleeper 
 
@@ -39,8 +38,7 @@ Still, he may not get as much volume as Joe Mixon because promising second-year 
 Ultimately, Zack Moss has an **ADP around 84**, making him an 8th or 9th-round pick, suggesting players can draft him cheaply as an RB2 or RB3 *steal*. If he performs well and keeps the RB1 spot, Zack Moss can become a top-5 RB in fantasy, similar to past Joe Mixon. 
 
 ![A picture of Zack Moss, former Indianapolis Colts running back, where he played well in the 2023 season.](https://ewscripps.brightspotcdn.com/dims4/default/0215f92/2147483647/strip/true/crop/4946x2782+0+258/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fae%2F8f%2F8802ad934aee908598541596dec9%2Fap22317752023424.jpg)
-
-(Athlete: Zack Moss Source: wrtv.com Photograph by David Becker/AP, Date: November 13, 2022) 
+<span style="font-size:0.5em;">(Athlete: Zack Moss Source: wrtv.com Photograph by David Becker/AP, Date: November 13, 2022)</span>
 
 #### Top WR Sleeper 
 
@@ -59,8 +57,7 @@ With Joe Brady as his OC and Josh Allen as his quarterback, Curtis Samuel is **p
 
 
 ![An image of Buffalo Bills WR Curtis Samuel, who is expected to be a top playmaker for Josh Allen in the 2024 season](https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MjA1MDkxMDU3ODIwNTA5OTQ4/curtis-samuel-.webp)
-
-(Athlete: Curtis Samuel Source: si.com Photograph by Joe Nicholson, USA TODAY, Date: March 18, 2024) 
+<span style="font-size:0.5em;">(Athlete: Curtis Samuel Source: si.com Photograph by Joe Nicholson, USA TODAY, Date: March 18, 2024)</span>
 
 
 #### Late-round League-winner player summary
@@ -76,8 +73,7 @@ Finally, Curtis Samuel reunites with his favorite OC Joe Brady on the Buffalo Bi
 Ultimately, **aspiring** Fantasy Football **League winners** should consider these late-round undervalued stars since they can provide serious value while being low-risk if they do not pan out. 
 
 ![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://cdn.discordapp.com/attachments/761005468008579092/1268937624819863552/SportAI.png?ex=66ae3dc1&is=66acec41&hm=d0edd729d19cae879da19abaf52a78d06d9e21e05387ca06bb9c36dbdbf3541d&) 
-
-(SportAI Inc *TM*)
+<span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
 
 #### New Free Fantasy Sports AI Tool
 
