@@ -93,12 +93,12 @@ SportAI uses its **unique Score+ metric** from its in-house algorithms to **proj
 
 The statistic accounts for **performance variance** and **goes beyond normal benchmarks**, using data points such as injuries, team achievement, opponent performance, and more.
 
-#### 2024 League-Winning Sleepers
+### 2024 League-Winning Sleepers
 
-Tired of Busts? Learn about 2024 League-Winning Sleepers [here](https://sportai.io/fantasy/football/draft/2024/08/02/NFL-Fantasy-Football-League-Winning-Breakouts-Sleepers.html). 
+<span style="font-size:1.5em;">Tired of Busts? Learn about 2024 League-Winning Sleepers [here](https://sportai.io/fantasy/football/draft/2024/08/02/NFL-Fantasy-Football-League-Winning-Breakouts-Sleepers.html).</span>
 
-#### SportAI’s Drop the Mic 
-<span style="font-size:2em;">**SportAI’s Drop the Mic**: “I didn’t start playing football a lot until high school.”-Patrick Mahomes</span>
+### SportAI’s Drop the Mic 
+<span style="font-size:1.5em;">“I didn’t start playing football a lot until high school.”-Patrick Mahomes</span>
 
 *Drop the Mic is a segment that features a funny quote at the end of each blog post!*
 
