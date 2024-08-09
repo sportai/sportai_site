@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Fantasy Football 2024: Top Busts and Overpays"
+date: 2024-8-9
+categories: fantasy football draft
+---
 ## NFL Fantasy Draft 2024: Top Fantasy Football Busts 
 ![A photograph of Patrick Mahomes, superstar Chiefs QB who underperformed in 2023](https://media.cnn.com/api/v1/images/stellar/prod/230110173341-patrick-mahomes.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp)
 
