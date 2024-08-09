@@ -68,7 +68,7 @@ Similarly, McBride’s Score+ is 81.7, ranking him 7th among all TEs. There is a
 
 Therefore, McBride will have to **outperform** Andrews and Kittle to match his top-four TE ADP, a *tall task* for McBride on a **struggling Cardinals team**. 
 
-![An image of Trey McBride, a projected top-four tight end for the 2024 fantasy football season, which makes him an overpriced pick) (https://cosxeuwlta.cloudimg.io/_outsports-prodweb_/uploads/2024/05/trey-mcbride-scaled.jpg?auto=format&auto=compress&fit=crop&gravity=50p,0p&w=788&h=444)
+![An image of Trey McBride, a projected top-four tight end for the 2024 fantasy football season, which makes him an overpriced pick] (https://cosxeuwlta.cloudimg.io/_outsports-prodweb_/uploads/2024/05/trey-mcbride-scaled.jpg?auto=format&auto=compress&fit=crop&gravity=50p,0p&w=788&h=444)
 <span style="font-size:0.5em;">(Athlete: Trey McBride Source: outsports.com Photograph by  Eric Hartline-USA TODAY Sports Date: Dec 31, 2023)</span>
 
 #### 2024 Fantasy Football Busts Summary 
