@@ -6,7 +6,6 @@ categories: fantasy football draft
 ---
 ## NFL Fantasy Draft 2024: Top Fantasy Football Busts 
 ![A photograph of Patrick Mahomes, superstar Chiefs QB who underperformed in 2023](https://media.cnn.com/api/v1/images/stellar/prod/230110173341-patrick-mahomes.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp)
-
 <span style="font-size:0.5em;">(Athlete: Patrick Mahomes Source: cnn.com Photograph by Chris Unger Getty Images, Date: January 10th, 2023)</span>
 
 <span style="font-size:2em;">D</span>uring the fantasy football season, players can end up as **busts** if they underperform.
@@ -82,7 +81,7 @@ Drake London is the **top WR Bust** because of the **many weapons** on the Falco
 
 Finally, Trey McBride is the **potential TE Bust** because of the addition of *Marvin Harrison Jr.* to the Cardinals’ offense and his top-four ranking, implying he needs to *outperform proven players* like Mark Andrews and **George Kittle, the second-best TE in 2023**. 
 
-![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://cdn.discordapp.com/attachments/761005468008579092/1268937624819863552/SportAI.png?ex=66ae3dc1&is=66acec41&hm=d0edd729d19cae879da19abaf52a78d06d9e21e05387ca06bb9c36dbdbf3541d&) 
+![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://sportai.io/images/logoWhite.svg) 
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
 #### New Free Fantasy Sports AI Tool
 
