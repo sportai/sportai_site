@@ -81,7 +81,7 @@ Drake London is the **top WR Bust** because of the **many weapons** on the Falco
 
 Finally, Trey McBride is the **potential TE Bust** because of the addition of *Marvin Harrison Jr.* to the Cardinals’ offense and his top-four ranking, implying he needs to *outperform proven players* like Mark Andrews and **George Kittle, the second-best TE in 2023**. 
 
-![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://logo.clearbit.com/https://sportai.io/) 
+![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
 #### New Free Fantasy Sports AI Tool
 
