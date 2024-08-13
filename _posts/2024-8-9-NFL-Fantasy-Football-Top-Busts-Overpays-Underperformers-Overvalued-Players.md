@@ -35,8 +35,7 @@ However, his noteworthy performance was mostly due to **breakaway carries** of 1
 
 Also, Achane performed tremendously against the Giants and Broncos, who had two of the four worst run defenses in the NFL. As a result, with a harder schedule and less luck, Achane may significantly underperform his ADP of around 22, ranking him as the 8th-best RB. 
 
-Therefore, drafting a top RB before Achane may be the best move, and then picking up a sleeper like Zach Moss, who we identified as a potential 2024 league-winner.  (Could hyperlink? Or can make a call to action at the end) 
-
+Therefore, drafting a top RB before Achane may be the best move, and then picking up a sleeper like Zach Moss, who we identified as a potential 2024 league-winner.
 ![A photograph of De’Von Achane, a potential RB Bust for the 2024 NFL season](https://fhcsportsreport.com/wp-content/uploads/2023/10/miami-dolphins-running-back-devon-achane.jpg)
 <span style="font-size:0.5em;">(Athlete: De’Von Achane, Source: thefalcoholic.com Photograph by William McFadden, Date: February 9th, 2024)</span>
 
