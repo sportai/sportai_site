@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fantasy Football 2024: Top Rookies and Busts"
+title: "Fantasy Football 2024: Top Rookies and Rookie Busts"
 date: 2024-7-25
 categories: fantasy football draft
 ---
