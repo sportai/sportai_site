@@ -59,8 +59,8 @@ Pickens’s ADP of 58 **seriously undervalues** him since he will be a lead wide
 
 #### TE Breakout Contender 
 
-![An image of Dalton Kincaid, TE for the Buffalo Bills who can break out in 2024](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoTZOSsx2_F8E59QJPvil17R_lAm_InLKKQ&s)
-<span style="font-size:0.5em;">(Athlete: Dalton Kincaid Source: deseret.com Photograph by Matt Durisko, Associated Press Date: December 31th, 2023)</span>
+![An image of Dalton Kincaid, TE for the Buffalo Bills who can break out in 2024](https://images2.minutemediacdn.com/image/upload/c_crop,w_7636,h_4295,x_0,y_306/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/images%2FGettyImages%2Fmmsport%2F16%2F01j3wx0frdaxzb02vzsn.jpg)
+<span style="font-size:0.5em;">(Athlete: Dalton Kincaid Source: buffalowdown.com Photograph by Bryan Bennett/GettyImages Date: July 28th, 2024)</span>
 
 During his rookie campaign, Dalton Kincaid performed well despite having another solid TE on the depth chart in Dawson Knox. He finished as the TE11, with over 150 fantasy points. 
 
