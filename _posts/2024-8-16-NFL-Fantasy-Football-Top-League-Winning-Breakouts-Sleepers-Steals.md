@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantasy Football 2024: League-Winning Breakout Picks"
-date: 2024-8-15
+date: 2024-8-16
 categories: fantasy football draft
 ---
 ![A photograph of Jordan Love, superstar Packers QB who broke out in 2023](https://kslsports.com/wp-content/uploads/2023/11/Jordan-Love-Green-Bay-Packers-NBA.jpg)
