@@ -76,7 +76,8 @@ Finally, Curtis Samuel reunites with his favorite OC Joe Brady on the Buffalo Bi
 
 Ultimately, **aspiring** Fantasy Football **League winners** should consider these late-round undervalued stars since they can provide serious value while being low-risk if they do not pan out. 
 
-![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://logo.clearbit.com/https://sportai.io/) 
+![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
+
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
 
 #### New Free Fantasy Sports AI Tool
