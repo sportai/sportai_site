@@ -31,7 +31,7 @@ Richardson’s ADP at around 52 does make him a top-seven option at QB but he wi
 ![A photograph of Los Angeles Chargers RB Gus Edward who is poised to break out in 2024](https://staticg.sportskeeda.com/editor/2024/01/ccdf4-17057809096105-1920.jpg)
 <span style="font-size:0.5em;">(Athlete: Gus Edwards Source: sportskeeda.com Photograph by Habib Timileyin, Date: January 20th, 2024)</span>
 
-Coming off a noteworthy campaign in 2023, Gus Edwards finished as the RB16, rushing for 810 yards. However, many regard him as a lower-tier option because he is old. 
+Coming off a noteworthy campaign in 2023, Gus Edwards finished as the RB16, rushing for 810 yards. However, many regard him as a lower-tier option because he is aging. 
 
 After signing a two-year deal with the Chargers, Edwards will become the lead running back under Jim Harbaugh and Greg Roman. During their tenure in San Franciso, the coaching pair ranked in the top eight in rushing yards four years in a row. 
 
