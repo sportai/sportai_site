@@ -26,8 +26,7 @@ Similarly, Malik Nabers will enter the New York Giants system as the WR1 and the
 
 He is a top dynasty draft pick alongside Marvin Harrison Jr. and will be drafted as a **lower-tier WR2** with an ADP of around 49. Nabers will receive many targets from Daniel Jones, who could revitalize himself into a **top-ten QB.** 
 
-![A picture of Marvin Harrison Jr. in his Ohio State jersey. He was drafted with the number four draft pick by the Arizona Cardinals in the 2024 NFL Draft.]({{site.baseurl}}/assets/images-posts/600px-Marvin_Harrison_Jr_2022_no_helmet_28cropped29.png)
-
+![A picture of Marvin Harrison Jr. in his Ohio State jersey. He was drafted with the number four draft pick by the Arizona Cardinals in the 2024 NFL Draft.]({{site.baseurl}}/assets/images-posts/600px-Marvin_Harrison_Jr_2022_no_helmet_28cropped29.png) 
 <span style="font-size:0.5em;">(Athlete: Marvin Harrison Jr. Source: Wikimedia Commons, Photograph by Alexander Jonesi, 
 Date: November 19, 2022) </span>
 
@@ -45,7 +44,6 @@ Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receiv
 
 
 ![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, at the 2024 Las Vegas Training  Camp.](https://static.outkick.com/www.outkick.com/content/uploads/2024/08/brock-bowers-rose-newell-training-camp.jpg)
-
 <span style="font-size:0.5em;">(Athlete: Brock Bowers, Source: outkick.com, Photograph by Ric Tapia/Getty Images Date: July 26, 2024)</span>
 
 
@@ -66,7 +64,6 @@ Unfortunately, these two were drafted into unideal situations, competing for the
 Ultimately, **aspiring Fantasy Football League winners** should **consider 2024 NFL rookies** if they can draft them **below their ADP** since they can **provide serious value**. However, they should **avoid potential busts or underperforming players.**
 
 ![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
-
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
 
 #### New Free Fantasy Sports AI Tool 
