@@ -15,7 +15,7 @@ Intriguingly, many rookies can make a valuable impact on their team while having
 Therefore, since these rookies are not highly drafted in many leagues, the 2024-2025 fantasy football season is another opportunity for fantasy managers to sweep the competition with fabulous picks. 
 
 
-####Top Rookie QB Steals
+#### Top Rookie QB Steals
 
 For QBs, **six** were drafted in the first round, tying the 1983 draft record. Still, the two top picks are the most intriguing: **Bears’ Caleb Williams** and the **Commanders’ Jayden Daniels**. 
 
@@ -32,7 +32,7 @@ Unfortunately, Daniels steps in a less talented group of teammates, given only T
 
 However, Daniels does have the **highest potential to be a scrambler**, similar to Lamar Jackson, which could increase his value. Daniels’ ADP at 116 could also make him a **steal** for players looking to **boost other positions** in the earlier rounds. 
 
-####Rookie Wide Reciever Steals and Sleepers 
+#### Rookie Wide Reciever Steals and Sleepers 
 
 ![A photograph of Ladd Mcconkey, rookie WR for the Los Angeles Chargers.](https://staticg.sportskeeda.com/editor/2024/08/43e51-17227785417321-1920.jpg?w=640)
 <span style=”font-size:0.5em;”>(Athlete: Ladd Mcconkey Source: sportskeeda.com Photograph by Adam Hulse, Date: August 4th, 2024)</span>
@@ -50,7 +50,7 @@ Therefore, McConkey’s ranking as the number 43 WR, Coleman's listed as the num
 ![A picture of Xavier Worthy in his Chiefs uniform. He is one of the fastest wide receivers in the league, replacing Tyreek Hill.](https://nbcsports.brightspotcdn.com/dims4/default/16ff371/2147483647/strip/true/crop/7665x4312+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fe8%2F4ea0945846308abbb7502c5cb1a7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2154182315)
 <span style=”font-size:0.5em;”>(Athlete: Xavier Worthy Source: nbcsports.com, Photograph by Myles Simmons, Date: June 5, 2024)</span>
 	
-####Top Rookie Steals and Sleepers Summary
+#### Top Rookie Steals and Sleepers Summary
 
 While top rookies such as Marvin Harrison Jr. and Malik Nabers can be fruitful picks, there are better sleepers and draft steals. 
 
