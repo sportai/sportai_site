@@ -81,7 +81,7 @@ The statistic accounts for **performance variance** and **goes beyond normal ben
 <span style="font-size:1.5em;">Scared of Drafting a Bust? Read [here](https://sportai.io/fantasy/football/draft/2024/08/09/NFL-Fantasy-Football-Top-Busts-Overpays-Underperformers-Overvalued-Players.html)</span>
 
 #### SportAI’s Drop the Mic 
-<span style="font-size:2em;"> "My goal of playing football [is] to be immortal. I want to [be a] legend."-Caleb Williams</span>
+<span style="font-size:2em;"> "My goal of playing football is to be immortal. I want to be a legend."-Caleb Williams</span>
 
 *Drop the Mic is a segment that features a funny quote at the end of each blog post!*
 
