@@ -100,7 +100,7 @@ The statistic accounts for **performance variance** and **goes beyond normal ben
 
 #### 2024 League-Winning Sleepers & Top Busts
 
-<span style="font-size:1.5em;">Looking for League-Winning Sleepers? Read [here](https://sportai.io/fantasy/football/draft/2024/08/02/NFL-Fantasy-Football-League-Winning-Breakouts-Sleepers.html). </span>
+<span style="font-size:1.5em;">Looking for League-Winning Sleepers? Read [here](https://sportai.io/fantasy/football/draft/2024/08/02/NFL-Fantasy-Football-League-Winning-Breakouts-Sleepers.html)</span>
 
 <span style="font-size:1.5em;">Scared of Drafting a Bust? Read [here](https://sportai.io/fantasy/football/draft/2024/08/09/NFL-Fantasy-Football-Top-Busts-Overpays-Underperformers-Overvalued-Players.html)</span>
 
