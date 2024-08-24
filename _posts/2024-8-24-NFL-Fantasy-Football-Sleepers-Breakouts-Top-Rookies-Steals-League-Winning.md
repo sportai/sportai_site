@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantasy Football 2024: Top Rookie Steals and Sleepers”
-date: 2024-8-21
+date: 2024-8-24
 categories: fantasy football draft
 ---
 
