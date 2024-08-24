@@ -10,8 +10,8 @@ For example, in 2023, CJ Stroud was a top-ten QB. Bijan Robinson and Jamhyr Gibb
 
 Therefore, there is a lot of potential to get undervalued rookies in the draft who can become league winners. 
 
-![An image of Sam LaPorta in his Iowa Hawkeyes jersey.]({{site.baseurl}}/assets/images-posts/432px-SamLaPorta.png)
-<span style="font-size:0.5em;">(Athlete: Sam LaPorta Source: Wikimedia Commons, Photograph by Maize & Blue Nation, Date: December 4, 2021) </span>
+![An image of Sam LaPorta in his Detroit Lions jersey.](https://s.yimg.com/ny/api/res/1.2/8fzvWGJYmrscSwJAYly4zQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/bf075db0-923f-11ee-b4bf-246b71b4a5f4)
+<span style="font-size:0.5em;">(Athlete: Sam LaPorta Source: sports.yahoo.com, Photograph by Chris Graythen/Getty Images, Date: December 3, 2023)</span>
 
 #### Top WR Talent
 Excitingly, there was a lot of top talent in the 2024 NFL draft. 
@@ -43,9 +43,10 @@ The Raiders also have a troubling quarterback situation, with second-year Aidan 
 
 Overall, his ADP at 96.6 makes him an overpay unless he can prove he will receive most of O’Connell’s targets. 
 
-![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, in his Georgia Bulldogs uniform](https://firstroundmock.com/wp-content/uploads/2023/08/bowerss.jpeg)
 
-<span style="font-size:0.5em;">(Athlete: Brock Bowers, Source: firstroundmock.com, Photograph by Todd Kirkland/Getty Images Date: November 25, 2023)</span>
+![An image of Brock Bowers, the 13th pick in the 2024 NFL Draft, at the 2024 Las Vegas Training  Camp.](https://static.outkick.com/www.outkick.com/content/uploads/2024/08/brock-bowers-rose-newell-training-camp.jpg)
+
+<span style="font-size:0.5em;">(Athlete: Brock Bowers, Source: outkick.com, Photograph by Ric Tapia/Getty Images Date: July 26, 2024)</span>
 
 
 #### Rookie RB Bust Alert
@@ -77,6 +78,12 @@ Check out [SportAI.io](https://sportai.io/), the **all-inclusive fantasy sports 
 SportAI uses its **unique Score+ metric** from its in-house algorithms to **project future fantasy performance** relative to other players. 
 
 The statistic accounts for **performance variance** and **goes beyond normal benchmarks**, using data points such as injuries, team achievement, and more.
+
+#### 2024 League-Winning Sleepers & Top Busts
+
+<span style="font-size:1.5em;">Looking for League-Winning Sleepers? Read [here](https://sportai.io/fantasy/football/draft/2024/08/02/NFL-Fantasy-Football-League-Winning-Breakouts-Sleepers.html). </span>
+
+<span style="font-size:1.5em;">Scared of Drafting a Bust? Read [here](https://sportai.io/fantasy/football/draft/2024/08/09/NFL-Fantasy-Football-Top-Busts-Overpays-Underperformers-Overvalued-Players.html)</span>
 
 
 
