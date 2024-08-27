@@ -6,7 +6,7 @@ categories: fantasy football draft
 ---
 
 ![A photograph of Caleb Williams, Chicago Bears QB and the first overall pick in the 2024 draft.](https://images2.minutemediacdn.com/image/upload/c_crop,w_2507,h_1410,x_0,y_462/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/name_image_likeness/01j5a65j59nwxdmnzt57.jpg)
-<span style=”font-size:0.5em;”>(Athlete: Caleb Williams Source: si.com Photograph by Mark Konezny-USA TODAY Sports, Date: August 10, 2024)</span> 
+<span style="font-size:0.5em;">(Athlete: Caleb Williams Source: si.com Photograph by Mark Konezny-USA TODAY Sports, Date: August 10, 2024)</span> 
 
 During the fantasy football season, **sleepers and steals** can propel a team to victory. 
 
@@ -24,7 +24,7 @@ Williams joins an explosive Bears squad that includes **top wide receiver** DJ M
 He is primed to succeed in Chicago and will look to start his career strong. His projected QB ranking at #16 may regard him as a **steal** in the draft. 
 
 ![An image of Jayden Daniels, Washington Commanders QB and the 2nd overall pick in the 2024 draft.](https://gray-wvue-prod.cdn.arcpublishing.com/resizer/v2/K7KC4PVL7VHG3I4P6WYHGU2MG4.jpg?auth=ad154324a8a698067e7fcade3eff57b2bb544291baebe42b114df3ac716245f5&width=800&height=450&smart=true)
-<span style=”font-size:0.5em;”>(Athlete: Jayden Daniels Source: fox8live.com Photograph by (Nick Wass | AP) Date: August 19, 2024)</span>
+<span style="font-size:0.5em;">(Athlete: Jayden Daniels Source: fox8live.com Photograph by (Nick Wass | AP) Date: August 19, 2024)</span>
 
 On the other hand, Jayden Daniels solves the desperate QB situation in Washington, which last had a stable option during 2018 with Kirk Cousins. 
 
@@ -35,9 +35,9 @@ However, Daniels does have the **highest potential to be a scrambler**, similar 
 #### Rookie Wide Reciever Steals and Sleepers 
 
 ![A photograph of Ladd Mcconkey, rookie WR for the Los Angeles Chargers.](https://staticg.sportskeeda.com/editor/2024/08/43e51-17227785417321-1920.jpg?w=640)
-<span style=”font-size:0.5em;”>(Athlete: Ladd Mcconkey Source: sportskeeda.com Photograph by Adam Hulse, Date: August 4th, 2024)</span>
+<span style="font-size:0.5em;">(Athlete: Ladd Mcconkey Source: sportskeeda.com Photograph by Adam Hulse, Date: August 4th, 2024)</span>
 
-For Wide Receivers, the top talent of Harrison Jr., Nabers, and Odunze make them attractive targets in the draft. However, the **Chargers’ Ladd McConkey** and **Bills’ Keon Coleman** competing for the **WR1** spot on their respective teams make them appealing options. 
+For Wide Recievers, the top talent of Harrison Jr., Nabers, and Odunze make them attractive targets in the draft. However, the **Chargers’ Ladd McConkey** and **Bills’ Keon Coleman** competing for the **WR1** spot on their respective teams make them appealing options. 
 
 McConkey could become the **top target** for Justin Herbert since Joshua Palmer and Quentin Johnston have had disappointing starts to their careers. 
 
@@ -48,7 +48,7 @@ Finally, Xavier Worthy may become the **next Tyreek Hill** for Patrick Mahomes a
 Therefore, McConkey’s ranking as the number 43 WR, Coleman's listed as the number 53 WR, and Worthy’s projected ADP at #104 make them **all sleepers** who could **significantly contribute** to fantasy teams if they succeed. 
 
 ![A picture of Xavier Worthy in his Chiefs uniform. He is one of the fastest wide receivers in the league, replacing Tyreek Hill.](https://nbcsports.brightspotcdn.com/dims4/default/16ff371/2147483647/strip/true/crop/7665x4312+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fe8%2F4ea0945846308abbb7502c5cb1a7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2154182315)
-<span style=”font-size:0.5em;”>(Athlete: Xavier Worthy Source: nbcsports.com, Photograph by Myles Simmons, Date: June 5, 2024)</span>
+<span style="font-size:0.5em;">(Athlete: Xavier Worthy Source: nbcsports.com, Photograph by Myles Simmons, Date: June 5, 2024)</span>
 	
 #### Top Rookie Steals and Sleepers Summary
 
