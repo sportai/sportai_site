@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "2024 NFL Top Waiver Wire Player Watchlist”
+title: "2024 NFL Top Waiver Wire Player Watchlist"
 date: 2024-8-31
 categories: fantasy football season
 ---
-
 ![A photograph of Isaiah Hodgins, former New York Giants WR](https://nypost.com/wp-content/uploads/sites/2/2023/08/Isaiah-Hodgins.jpg)
-<span style=”font-size:0.5em;”>(Athlete: Isaiah Hodgins Source: nypost.com Photograph by Corey Sipkin|NY Post, Date: August 23, 2024)</span> 
+<span style="font-size:0.5em;">(Athlete: Isaiah Hodgins Source: nypost.com Photograph by Corey Sipkin|NY Post, Date: August 23, 2024)</span> 
 
 Throughout the NFL, teams must cut their rosters down from 90 members to 53. As a result, many players who **may be valuable** to another team are cut. 
 
@@ -17,7 +16,7 @@ Therefore, these bounce-back players are great pickups from the waiver wire if t
 #### Top Comeback QB
 
 ![A photograph of Bailey Zappe, former New England Patriots QB](https://cloudfront-us-east-2.images.arcpublishing.com/reuters/C56HHM2ZCZLHRMBF2HZHXV7ZYQ.jpg)
-<span style=”font-size:0.5em;”>(Athlete: Bailey Zappe Source: reuters.com Photograph byEric Canha-USA TODAY Sports, Date: August 15, 2024)</span> 
+<span style="font-size:0.5em;">(Athlete: Bailey Zappe Source: reuters.com Photograph byEric Canha-USA TODAY Sports, Date: August 15, 2024)</span> 
 
 After the 2024 roster cuts, former New England Patriots QB Bailey Zappe was waived, confirming suspicions after the Patriots drafted two rookie QBs and signed veteran Jacoby Brissett. Zappe was a fourth-round pick from the 2022 draft who has made eight starts for the Patriots. 
 
@@ -30,7 +29,7 @@ Zappe’s potential and former experience as a starting NFL quarterback caused h
 #### Promising Young WR
 
 ![A photograph of Terrace Marshall Jr., former Carolina Panthers WR](https://nbcsports.brightspotcdn.com/dims4/default/49d594f/2147483647/strip/true/crop/6545x3685+0+340/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2Fd5%2Fd75bdaf348569466e03f6d374759%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1452622564)
-<span style=”font-size:0.5em;”>(Athlete: Terrace Marshall Jr. Source: nbcsports.com Photograph by Josh Alper, Date: August 23, 2023)</span>  
+<span style="font-size:0.5em;">(Athlete: Terrace Marshall Jr. Source: nbcsports.com Photograph by Josh Alper, Date: August 23, 2023)</span>  
 
 Former Carolina Panthers WR Terrace Marshall Jr. was released on Wednesday after a three-year tenure with the organization. Still, there is little Marshall Jr. could do with the **outrageous situation** of the Carolina Panthers offense in Marshall Jr.’s time there
 
@@ -41,7 +40,7 @@ Marshall Jr. still **showcases his potential**, **catching a touchdown** in the 
 #### Contributing WR in the Super Bowl
 
 ![A photograph of Kadarius Toney, former Kansas City Chiefs WR](https://images2.minutemediacdn.com/image/upload/c_crop,w_3222,h_1812,x_0,y_146/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si-temp/01hwy2rbrzhryhz0bpck.jpg)
-<span style=”font-size:0.5em;”>(Athlete: Kadarius Toney Source: si.com Photograph by Denny Medley-USA TODAY Sports, Date: November 20, 2023)</span> 
+<span style="font-size:0.5em;">(Athlete: Kadarius Toney Source: si.com Photograph by Denny Medley-USA TODAY Sports, Date: November 20, 2023)</span> 
 
 Former Chiefs WR Kadarius Toney was released on Wednesday after issues regarding his availability and underperformance in 2023. Toney was instrumental to the Chiefs’ offense in 2022, when he was traded there and **scored go-ahead touchdowns** in the Super Bowl.
 
@@ -54,7 +53,7 @@ Still, Toney will get **another chance** since the Los Angeles Chargers signed h
 #### Talented Sophomore DE 
 
 ![A photograph of KJ Henry, former Washington Commanders Edge](https://cdn.vox-cdn.com/thumbor/267PUo8KC1LgEmABAzyBwf1pziQ=/0x0:4165x2926/1200x800/filters:focal(1722x796:2760x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/73549673/usa_today_21976050.0.jpg)
-<span style=”font-size:0.5em;”>(Athlete: KJ Henry Source: cincyjungle.com Photograph by Jerome Miron-USA TODAY Sports Sports, Date: August 20, 2024)</span> 
+<span style="font-size:0.5em;">(Athlete: KJ Henry Source: cincyjungle.com Photograph by Jerome Miron-USA TODAY Sports Sports, Date: August 20, 2024)</span> 
 
 On Wednesday, former Washington Commanders DE KJ Henry was released, ending the 2023 5th-round pick’s time with the organization. KJ Henry is a former Clemson standout who showed huge potential as a rookie. 
 
