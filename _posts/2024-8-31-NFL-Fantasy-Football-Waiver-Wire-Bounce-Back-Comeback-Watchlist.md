@@ -7,7 +7,7 @@ categories: fantasy football season
 ![A photograph of Isaiah Hodgins, former New York Giants WR](https://nypost.com/wp-content/uploads/sites/2/2023/08/Isaiah-Hodgins.jpg)
 <span style="font-size:0.5em;">(Athlete: Isaiah Hodgins Source: nypost.com Photograph by Corey Sipkin|NY Post, Date: August 23, 2024)</span> 
 
-Throughout the NFL, teams must cut their rosters down from 90 members to 53. As a result, many players who **may be valuable** to another team are cut. 
+<span style="font-size:2em;">T</span>hroughout the NFL, teams must cut their rosters down from 90 members to 53. As a result, many players who **may be valuable** to another team are cut. 
 
 Accordingly, players are on the waivers, meaning they are on the brink of making the final roster but were cut. However, these players may sign somewhere else and reach their full potential, providing fantasy value for managers. 
 
