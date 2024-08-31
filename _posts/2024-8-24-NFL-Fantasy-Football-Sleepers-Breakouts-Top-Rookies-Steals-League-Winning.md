@@ -8,7 +8,7 @@ categories: fantasy football draft
 ![A photograph of Caleb Williams, Chicago Bears QB and the first overall pick in the 2024 draft.](https://images2.minutemediacdn.com/image/upload/c_crop,w_2507,h_1410,x_0,y_462/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/name_image_likeness/01j5a65j59nwxdmnzt57.jpg)
 <span style="font-size:0.5em;">(Athlete: Caleb Williams Source: si.com Photograph by Mark Konezny-USA TODAY Sports, Date: August 10, 2024)</span> 
 
-During the fantasy football season, **sleepers and steals** can propel a team to victory. 
+<span style="font-size:2em;">D</span>uring the fantasy football season, **sleepers and steals** can propel a team to victory. 
 
 Intriguingly, many rookies can make a valuable impact on their team while having a low ADP compared to seasoned veterans. For example, Puka Nacua and Sam LaPorta dominated fantasy leagues in 2023 with historic seasons. 
 
