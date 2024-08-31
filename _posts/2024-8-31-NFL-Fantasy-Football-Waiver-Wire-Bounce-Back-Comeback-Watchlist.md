@@ -2,7 +2,7 @@
 layout: post
 title: "2024 NFL Top Waiver Wire Player Watchlist"
 date: 2024-8-31
-categories: fantasy football season
+categories: fantasy football
 ---
 ![A photograph of Isaiah Hodgins, former New York Giants WR](https://nypost.com/wp-content/uploads/sites/2/2023/08/Isaiah-Hodgins.jpg)
 <span style="font-size:0.5em;">(Athlete: Isaiah Hodgins Source: nypost.com Photograph by Corey Sipkin|NY Post, Date: August 23, 2024)</span> 
