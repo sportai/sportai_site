@@ -8,9 +8,9 @@ categories: fantasy football season
 ![A photograph of Isaiah Hodgins, former New York Giants WR](https://nypost.com/wp-content/uploads/sites/2/2023/08/Isaiah-Hodgins.jpg)
 <span style=”font-size:0.5em;”>(Athlete: Isaiah Hodgins Source: nypost.com Photograph by Corey Sipkin|NY Post, Date: August 23, 2024)</span> 
 
-Throughout the NFL, teams must cut their rosters down from 90 members to 53. As a result, many players who may be valuable to another team are cut. 
+Throughout the NFL, teams must cut their rosters down from 90 members to 53. As a result, many players who **may be valuable** to another team are cut. 
 
-Accordingly, players are on the roster bubble, meaning they are on the brink of making the final roster but were cut. However, these players may sign somewhere else and reach their full potential, providing fantasy value for managers. 
+Accordingly, players are on the waivers, meaning they are on the brink of making the final roster but were cut. However, these players may sign somewhere else and reach their full potential, providing fantasy value for managers. 
 
 Therefore, these bounce-back players are great pickups from the waiver wire if they land in the right situation. 
 
@@ -21,35 +21,35 @@ Therefore, these bounce-back players are great pickups from the waiver wire if t
 
 After the 2024 roster cuts, former New England Patriots QB Bailey Zappe was waived, confirming suspicions after the Patriots drafted two rookie QBs and signed veteran Jacoby Brissett. Zappe was a fourth-round pick from the 2022 draft who has made eight starts for the Patriots. 
 
-He has a 4-4 record and has a 63.5% completion percentage with a touchdown to interception ratio of 11:12. Although Zappe might not be the best option, he is a proven player that has shown he can win games, even with a subpar Patriots lineup. 
+He has a **4-4 record and has a 63.5% completion percentage** with a touchdown to interception ratio of 11:12. Although Zappe might not be the best option, he is a **proven playe**r who has shown he can win games, even with a subpar Patriots lineup. 
 
 Also, a new rule regarding emergency QBs limits teams from infinitely promoting QBs from the practice squad. Consequently, GMs may be more interested in rostering a third quarterback to add depth. 
 
-Zappe’s potential and former experience as a starting NFL quarterback caused him to sign with the Chiefs on Wednesday, August 28th, 2024. Ultimately, Zappe’s decision allows him to learn from the best quarterback in the NFL, which could be a turning point in his career. 
+Zappe’s potential and former experience as a starting NFL quarterback caused him to sign with the Chiefs on Wednesday, August 28th, 2024. Ultimately, Zappe’s decision allows him to **learn from the best quarterback in the NFL**, which could be a **turning point** in his career. 
 
 #### Promising Young WR
 
 ![A photograph of Terrace Marshall Jr., former Carolina Panthers WR](https://nbcsports.brightspotcdn.com/dims4/default/49d594f/2147483647/strip/true/crop/6545x3685+0+340/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2Fd5%2Fd75bdaf348569466e03f6d374759%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1452622564)
 <span style=”font-size:0.5em;”>(Athlete: Terrace Marshall Jr. Source: nbcsports.com Photograph by Josh Alper, Date: August 23, 2023)</span>  
 
-Former Carolina Panthers WR Terrace Marshall Jr. was released on Wednesday after a three-year tenure with the organization. Still, there is little Marshall Jr. could do with the outrageous situation of the Carolina Panthers offense in Marshall Jr.’s time there
+Former Carolina Panthers WR Terrace Marshall Jr. was released on Wednesday after a three-year tenure with the organization. Still, there is little Marshall Jr. could do with the **outrageous situation** of the Carolina Panthers offense in Marshall Jr.’s time there
 
 Marshall Jr. was a second-round pick in the 2021 draft that underperformed his expected production. He was cut this offseason due to increased WRs as the Panthers drafted Xavier Legette in the first round of the 2024 draft and traded for Diontae Johson.
 
-Marshall Jr. still showcases his potential, catching a touchdown in the final preseason game. As a result, the San Franciso 49ers signed him to their practice squad, and Marshall can help fill in the gap left behind by Brandon Aiyuk if he is traded. 
+Marshall Jr. still **showcases his potential**, **catching a touchdown** in the final preseason game. As a result, the San Franciso 49ers signed him to their practice squad, and Marshall can help **fill in the gap** left behind if the 49ers trade a key receiver.  
 
 #### Contributing WR in the Super Bowl
 
 ![A photograph of Kadarius Toney, former Kansas City Chiefs WR](https://images2.minutemediacdn.com/image/upload/c_crop,w_3222,h_1812,x_0,y_146/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si-temp/01hwy2rbrzhryhz0bpck.jpg)
 <span style=”font-size:0.5em;”>(Athlete: Kadarius Toney Source: si.com Photograph by Denny Medley-USA TODAY Sports, Date: November 20, 2023)</span> 
 
-Former Chiefs WR Kadarius Toney was released on Wednesday after issues regarding his availability and underperformance in 2023. Toney was instrumental to the Chiefs’ offense in 2022, when he was traded there and scored go-ahead touchdowns in the Super Bowl.
+Former Chiefs WR Kadarius Toney was released on Wednesday after issues regarding his availability and underperformance in 2023. Toney was instrumental to the Chiefs’ offense in 2022, when he was traded there and **scored go-ahead touchdowns** in the Super Bowl.
 
 During the 2024 NFL training camp, there were reports that Toney was practicing with the first team and getting some reps at RB. However, his efforts were in vain as he was still released by the Chiefs, who were ready to explore other options on the market. 
 
 The Chiefs also signed Juju-Smith-Schuster, traded for WR Marquise Brown, and drafted speedster Xavier Worthy in the first round of the 2024 draft, log jamming the Chiefs’ wide receiver room. 
 
-Still, Toney will get another chance since the Los Angeles Chargers signed him and he will be a top option for Justin Herbert alongside Ladd McConkey and Brenden Rice. Ultimately, Toney will look to bounce back in 2024, cementing his value as a top young receiver in the NFL. 
+Still, Toney will get **another chance** since the Los Angeles Chargers signed him and he will be a top option for Justin Herbert alongside Ladd McConkey and Brenden Rice. Ultimately, Toney will look to **bounce back in 2024**, cementing his place as a **top young receiver** in the NFL. 
 
 #### Talented Sophomore DE 
 
@@ -60,13 +60,13 @@ On Wednesday, former Washington Commanders DE KJ Henry was released, ending the 
 
 The complete overhaul of the Commanders’ organization due to a change in ownership and coaching left Henry unneeded since GM Adam Peters signed many defensive Dallas Cowboys to assist new head coach Dan Quinn. 
 
-However, Henry was stellar in the preseason, producing 10 pressures on the quarterback and a league-high nine hurries. Henry’s PFF (Pro Football Focus) grade of 82.9 and his 20.8% pass rush win rate in the 2024 preseason reinforce his significant potential to become a top defensive edge in the NFL. 
+However, Henry was stellar in the preseason, producing 10 pressures on the quarterback and a **league-high nine hurries**. **Henry’s PFF (Pro Football Focus) grade of 82.9 and his 20.8% pass rush win rate in the 2024 preseason** reinforce his **significant potential** to become a top defensive edge in the NFL. 
 
 Accordingly, the Cincinnati Bengals signed him off waivers to boost their defensive line. Henry will look to prove the Commanders wrong and might be the top steal of the offseason. 
 
 #### 2024 Waiver Wire Player Watchlist Summary
 
-The 2024 NFL season provides many opportunities for waiver wire players to solidify or earn their roster spot. Players waived in the preseason will especially want to make their former teams look foolish by breaking out. 
+The 2024 NFL season provides many opportunities for **waiver-wire players to solidify or earn their roster spots**. Players waived in the preseason will especially want to make their former teams look foolish by breaking out. 
 
 For example, Bailey Zappe was released by the New England Patriots but will get the chance to observe Patrick Mahomes in Kansas City and sharpen his game. 
 
