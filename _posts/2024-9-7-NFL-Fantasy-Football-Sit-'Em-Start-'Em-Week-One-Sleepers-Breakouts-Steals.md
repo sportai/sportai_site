@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024 NFL Week One Sunday & Monday Start ‘Em Sit ‘Em Picks: Jared Goff, Aaron Rodgers, Kyren Williams, etc.
+title: "2024 NFL Week One Sunday & Monday Start ‘Em Sit ‘Em Picks: Jared Goff, Aaron Rodgers, Kyren Williams, etc."
 date: 2024-9-7
 categories: fantasy football season
 ---
