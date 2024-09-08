@@ -38,9 +38,9 @@ After a disastrous 2023 season where he only played four snaps, Aaron Rodgers wi
 
 Still, Rodgers is a proven QB with multiple MVPs who can dominate another team. 
 
-However, the advanced metrics are unfavorable for Rodgers and the Jets, who ranked lowest in touchdown percentage of scoring plays while the 49ers were second-best. The Jets also had the lowest rate of touchdown percentage in the red zone while the 49ers had the highest. 
+However, the *advanced metrics are unfavorable* for Rodgers and the Jets, who ranked lowest in touchdown percentage of scoring plays while the 49ers were second-best. The Jets also had the lowest rate of touchdown percentage in the red zone while the 49ers had the highest. 
 
-The Jets also only converted 26% of touchdowns in 2023, the lowest rate for any team in the NFL since 2015. The 49ers also outperformed the Jets in Off. Yards/Play and Opp. Plays/Game, reinforcing their likeliness to defeat the Jets. 
+The **Jets also only converted 26% of touchdowns in 2023, the lowest rate for any team in the NFL since 2015**. The 49ers also outperformed the Jets in Off. Yards/Play and Opp. Plays/Game, reinforcing their likeliness to defeat the Jets. 
 
 Albeit these metrics occurred when Rodgers was not QB for the Jets, it is not a convincing case that 41-year-old Rodgers will play at an MVP-caliber level in his first game back. 
 
@@ -105,6 +105,7 @@ Week One matchups will start the 2024-2025 NFL season off spectacularly, but som
 The QB Start ‘Em choice is Lions QB Jared Goff since he plays a poor Rams’ defense who have lost Aaron Donald and ranked 21st in pass defense in 2023. 
 
 The QB Sit ‘Em player is Jets QB Aaron Rodgers because he is 41 years old and is coming off a torn ACL injury. He also faces a top defense in the 49ers and likely will underperform. 
+
 The RB Start ‘Em pick is Seahawks RB Kenneth Walker as he faces one of the worst defenses in the Denver Broncos, ranked as the second-worst run defense in the NFL. 
 
 The RB Sit ‘Em pick is Rams RB Kyren Williams because he faces the toughest run defense in the Lions and has a questionable workload split with promising rookie Blake Corum. 
