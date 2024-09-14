@@ -83,7 +83,8 @@ Nabers also has the **third-highest score+** among rookie WRs, emphasizing his h
 
 #### Fantasy Football 2024 Week Two Breakouts and Busts Summary
 
-![A photograph of Bijan Robinson, Falcons RB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhp32OgubjLE6JEv9rKYCjVd-qvfzz4JhhmQ&s)
+![A photograph of Bijan Robinson, Falcons RB](https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MjAyMTcwNjE1ODg4MDI4Njg0/bijan-robinson-55.webp)
+<span style="font-size:0.5em;">(Athlete: Bijan Robinson Source: si.com Photograph by Brett Davis, USA TODAY Sports, Date: January 25th, 2024)</span> 
 
 **Week two offers many exciting games and opportunities** for fantasy managers to win with strategic starts and benches. Accordingly, fantasy managers must implement these breakout and bust picks to succeed. 
 
