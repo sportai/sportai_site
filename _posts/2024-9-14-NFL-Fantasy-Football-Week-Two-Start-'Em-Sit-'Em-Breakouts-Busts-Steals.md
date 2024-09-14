@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “2024 NFL Week Two Breakouts + Busts: Dak Prescott, Joe Burrow, Zamir White, etc.”
+title: "2024 NFL Week Two Breakouts + Busts: Dak Prescott, Joe Burrow, Zamir White, etc."
 date: 2024-9-14
 categories: fantasy football season
 ---
