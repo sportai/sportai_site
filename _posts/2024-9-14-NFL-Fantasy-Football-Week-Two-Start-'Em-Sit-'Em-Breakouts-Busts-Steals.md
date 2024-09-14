@@ -83,6 +83,8 @@ Nabers also has the **third-highest score+** among rookie WRs, emphasizing his h
 
 #### Fantasy Football 2024 Week Two Breakouts and Busts Summary
 
+![A photograph of Bijan Robinson, Falcons RB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhp32OgubjLE6JEv9rKYCjVd-qvfzz4JhhmQ&s)
+
 **Week two offers many exciting games and opportunities** for fantasy managers to win with strategic starts and benches. Accordingly, fantasy managers must implement these breakout and bust picks to succeed. 
 
 **Dak Prescott** will play at home and face the Saints in an expected offensive shootout that could result in Prescott earning many points for his managers. Also, his myriad of weapons provides him with many possibilities to excel. 
@@ -114,7 +116,7 @@ The statistic accounts for **performance variance** and **goes beyond normal ben
 #### 2024 League-Winning Sleepers & Waiver Wire Watchlist
 <span style="font-size:1.5em;">Looking for League-Winning Sleepers? Read [here](https://sportai.io/fantasy/football/draft/2024/08/02/NFL-Fantasy-Football-League-Winning-Breakouts-Sleepers.html)</span>
 
-<span style="font-size:1.5em;">Looking for savvy Waiver Wire pickups? Read [here](https://sportai.io/fantasy/football/2024/08/31/NFL-Fantasy-Football-Waiver-Wire-Bounce-Back-Comeback-Watchlist.html)</span>
+<span style="font-size:1.5em;">Looking for Savvy Waiver Wire pickups? Read [here](https://sportai.io/fantasy/football/2024/08/31/NFL-Fantasy-Football-Waiver-Wire-Bounce-Back-Comeback-Watchlist.html)</span>
 
 #### SportAI’s Drop the Mic 
 <span style="font-size:2em;"> “I am smarter and a better football player because I stayed in school.”-Dak Prescott</span>
