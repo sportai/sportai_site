@@ -6,9 +6,9 @@ categories: fantasy football season
 ---
 
 <span style="font-size:2em;">J</span>ust three weeks into the NFL season, there has been a **game-changing** surprise in fantasy football. Although week three offered spectacular performances from Cole Kmet and Dallas Goedert, the **tight end position is becoming less valuable than the kicker position**, with many **top-tier** tight ends **underperforming**. 
+
 ![A photograph of Dallas Goedert, Eagles Tight End](https://cdn.theathletic.com/app/uploads/2022/10/05224941/GettyImages-1427296541-scaled.jpg)
 <span style="font-size:0.5em;">(Athlete: Dallas Goedert Source: nytimes.com Photograph by Bo Wolf, Date: October 6th, 2022)</span> 
-
 
 #### Clutch Kicks vs End Zone Dominance: Fantasy Football's 2024 Kicker-Tight End Debate
 
@@ -20,8 +20,8 @@ On the contrary, since kickers are chosen in the late rounds, they provide **ser
 
 Therefore, it is crucial to target kickers who receive **ample chances** on their team to kick field goals and extra points. 
 
-![A photograph of Austin Seibert, Commanders Kicker](https://static.www.nfl.com/image/upload/t_editorial_landscape_mobile/f_auto/league/j47mhktwqlwhp0bxaugt.jpg)
-<span style="font-size:0.5em;">(Athlete: Austin Seibert Source: NFL.com Photograph by NFL, Date: September 15th, 2024)</span> 
+![A photograph of Austin Seibert, Commanders Kicker](https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-09/GettyImages-2172188996.jpg?h=8aeee089&itok=uis1ijn)
+<span style="font-size:0.5em;">(Athlete: Austin Seibert Source: sportingnews.com Photograph by sportingnews, Date: September 15th, 2024)</span> 
 
 #### Historical Trends and Kicker Tiers
 
