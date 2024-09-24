@@ -16,6 +16,11 @@ In 2024,** kickers outperformed tight ends** in weeks one and two, with top perf
 
 However, the top tight ends in week three were mid-tier options Dallas Goedert and Cole Kmet, suggesting that the position is volatile and unpredictable in 2024. Also, **star tight ends** like Sam LaPorta, Travis Kelce, and Mark Andrews have been **quite disappointing** in 2024, highlighting that many **early-round draft picks are becoming busts**.
 
+![A photograph of a fantasy football VOR graph for multiple positions](https://i0.wp.com/fantasyfootballanalytics.net/wp-content/uploads/2024/08/vor_box.png?w=1480&ssl=1)
+<span style="font-size:0.5em;">(Source: fantasyfootballanalytics.net)</span>
+
+The projections graph above showcases how tight ends have a small range for VOR *(Value Over Replacement)*, suggesting little potential for breakout campaigns in 2024. Thus, the tight end position may be talented. Still, the little variation in the position's estimates implies there may be no significantly elite tight ends that can outperform replacement-level tight ends significantly. 
+
 On the contrary, since kickers are chosen in the late rounds, they provide **serious value** for any fantasy manager looking to win their league. Kickers also have many opportunities for field goals, especially in close games or if they are on an inefficient offensive team such as the Washington Commanders. 
 
 Therefore, it is crucial to target kickers who receive **ample chances** on their team to kick field goals and extra points. 
@@ -29,7 +34,7 @@ In the past two years, tight ends have ended the season with more points than ki
 
 Surprisingly, in 2024, four kickers are performing better than the TE1, strengthening the argument that they can be better than tight ends. Kickers also have consistent workloads since many teams kick field goals often. Contrastingly, tight ends have shaky production due to RBs and WRs taking their targets. 
 
-There has also been an influx of fresh kicker talent, such as superstar Brandon Aubrey and Sophmore Jake Moody, who are fantastic options for fantasy teams. These young kickers demonstrate that NFL teams are investing in better kickers, suggesting they should receive plenty of field goals and extra point attempts. 
+There has also been an influx of fresh kicker talent, such as superstar Brandon Aubrey and Sophomore Jake Moody, who are fantastic options for fantasy teams. These young kickers demonstrate that NFL teams are investing in better kickers, suggesting they should receive plenty of field goals and extra point attempts. 
 
 Historical data also highlights that they are kickers can be split up into tiers, similar to the other fantasy football positions. These tiers are significant because teams should aim for an elite kicker rather than a subpar option. 
 
