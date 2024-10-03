@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 2020s: The Comeback QB Era. Geno Smith, Mayfield, etc."
+title: "The 2020s: The Comeback QB Era."
 date: 2024-10-3
 categories: fantasy football season
 ---
