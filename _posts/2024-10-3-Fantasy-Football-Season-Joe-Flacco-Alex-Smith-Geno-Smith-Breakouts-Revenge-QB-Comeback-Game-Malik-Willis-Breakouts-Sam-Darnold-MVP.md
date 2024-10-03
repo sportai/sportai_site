@@ -1,11 +1,9 @@
-
 ---
 layout: post
-title: “The 2020s: The Comeback QB Era. Geno Smith, Mayfield, etc.”
+title: "The 2020s: The Comeback QB Era. Geno Smith, Mayfield, etc."
 date: 2024-10-3
 categories: fantasy football season
 ---
-
 
 <span style=”font-size:2em;”>J</span>ust a quarter into the NFL season, many former quarterback “busts” have made spectacular comeback performances, surprising the world. Therefore, the rise of these QBs has officially made the 2020s the decade of the comeback QB. 
 
