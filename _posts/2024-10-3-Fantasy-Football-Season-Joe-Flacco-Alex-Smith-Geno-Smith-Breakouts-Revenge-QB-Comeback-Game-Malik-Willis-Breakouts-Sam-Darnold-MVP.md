@@ -5,7 +5,7 @@ date: 2024-10-3
 categories: fantasy football season
 ---
 
-<span style=”font-size:2em;”>J</span>ust a quarter into the NFL season, many former quarterback “busts” have made spectacular comeback performances, surprising the world. Therefore, the rise of these QBs has officially made the 2020s the decade of the comeback QB. 
+<span style="font-size:2em;">J</span>ust a quarter into the NFL season, many former quarterback “busts” have made spectacular comeback performances, surprising the world. Therefore, the rise of these QBs has officially made the 2020s the decade of the comeback QB. 
 
 ![A photograph of Sam Darnold, Vikings QB ](https://media.pff.com/2024/09/2Y2FW1M-scaled.jpg?w=1200&h=675)
 <span style="font-size:0.5em;">(Athlete: Sam Darnold Source: pff.com Photograph by AP Photo/Adam Hunger, Date: September 8th, 2024)</span> 
