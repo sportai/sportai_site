@@ -21,10 +21,10 @@ Edey’s **massive frame** at seven-foot-four-inches and 285 pounds allow him to
 
 Edey offers tremendous value since he is the 36th player taken off the board at his position. However, Edey is top-15 if he performs well in his rookie season. 
 
-![A photograph of Lamelo Ball, Hornets Point Guard](https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/07/mixcollage-26-jul-2024-03-24-pm-3461.jpg)
-<span style="font-size:0.5em;">(Athlete: Lamelo Ball Source: givemesport.com Photograph by Jabari Jelks, Date: July 29th, 2024)</span> 
+![A photograph of LaMelo Ball, Hornets Point Guard](https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/07/mixcollage-26-jul-2024-03-24-pm-3461.jpg)
+<span style="font-size:0.5em;">(Athlete: LaMelo Ball Source: givemesport.com Photograph by Jabari Jelks, Date: July 29th, 2024)</span> 
 
-Lamelo Ball’s current **ADP of 24.2** is too low for his top-tier talent. Still, his drop in value is due to his last two *consecutive injury-ridden seasons* in which he played only 58 games total. 
+LaMelo Ball’s current **ADP of 24.2** is too low for his top-tier talent. Still, his drop in value is due to his last two *consecutive injury-ridden seasons* in which he played only 58 games total. 
 
 Since he was a unanimous first-round pick in these two seasons, his injuries frustrated many managers. However, Ball has a first-round return since he has **career averages** of 20 PPG, 7.4 APG, and 6.2 RPG with 1.6 SPG. 
 
@@ -44,7 +44,7 @@ Overall, Giddey is a solid sleeper mid-round pick who can **significantly outpla
 
 #### Top 2024 Fantasy Basketball Sleepers Summary
 
-In conclusion, Zach Edey, Lamelo Ball, and Josh Giddey are all the top sleepers for the 2024 fantasy basketball season. 
+In conclusion, Zach Edey, LaMelo Ball, and Josh Giddey are all the top sleepers for the 2024 fantasy basketball season. 
 
 Edey possesses an **excellent college track record and tremendous size** to succeed at the center position and accumulate many rebounds and blocks. 
 
@@ -74,7 +74,7 @@ The statistic accounts for **performance variance** and **goes beyond normal ben
 <span style="font-size:1.5em;">Looking for Savvy Waiver Wire pickups? Read [here](https://sportai.io/fantasy/football/2024/08/31/NFL-Fantasy-Football-Waiver-Wire-Bounce-Back-Comeback-Watchlist.html)</span>
 
 #### SportAI’s Drop the Mic 
-<span style="font-size:2em;">“Life is sweet, but sometimes old people just don't get it.”-Lamelo Ball</span>
+<span style="font-size:2em;">“Life is sweet, but sometimes old people just don't get it.”-LaMelo Ball</span>
 
 *Drop the Mic is a segment that features a funny quote at the end of each blog post!*
 
