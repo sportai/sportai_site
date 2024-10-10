@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Fantasy Basketball 2024: Top Sleepers Picks”
+title: "Fantasy Basketball 2024: Top Sleepers Picks"
 date: 2024-10-3
 categories: fantasy basketball season
 ---
