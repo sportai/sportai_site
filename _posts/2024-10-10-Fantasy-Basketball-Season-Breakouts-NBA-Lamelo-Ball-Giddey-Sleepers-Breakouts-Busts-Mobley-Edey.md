@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Fantasy Basketball 2024: Top Sleepers Picks"
-date: 2024-10-3
+date: 2024-10-10
 categories: fantasy basketball season
 ---
 
 ![A photograph of Evan Mobley, Cavaliers Center](https://cdn.vox-cdn.com/thumbor/VVRYZYXC1SUAjYik_xRU92zhJ7g=/0x196:3809x2772/1200x800/filters:focal(2097x1246:2705x1854)/cdn.vox-cdn.com/uploads/chorus_image/image/73641200/2176767178.0.jpg)
 <span style="font-size:0.5em;">(Athlete: Evan Mobley Source: fearthesword.com Photograph by Jackson Flickinger, Date: October 8th, 2024)</span> 
 
-<span style=”font-size:2em;”>H</span>eading into the NBA season, many fantasy basketball managers are excited to outscore their league-mates through savvy draft selections and trades. Therefore, here are three players to look out for in your drafts. 
+<span style="font-size:2em;">H</span>eading into the NBA season, many fantasy basketball managers are excited to outscore their league-mates through savvy draft selections and trades. Therefore, here are three players to look out for in your drafts. 
 
 ![A photograph of Zach Edey, Grizzlies Center](https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/07/USAT/75563282007-usatsi-24423102-168402559-lowres.jpg?width=1320&height=880&fit=crop&format=pjpg&auto=webp)
 <span style="font-size:0.5em;">(Athlete: Zach Edey Source: usatoday.com Photograph by Chris Day/The Commerical Appeal, Date: October 6th, 2024)</span> 
@@ -53,6 +53,7 @@ Ball’s ADP is significantly lower than his potential performance due to injuri
 Giddey’s move to Chicago should help him be a primary playmaker on a new team with great sharpshooters. Giddey’s current ADP can be **easily outmatched** by his play and he is an amazing mid-round value pick for managers. 
 
 Ultimately, these sleepers can help your team **dominate your league** and come out on top. 
+
 ![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
 
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
