@@ -9,7 +9,7 @@ categories: fantasy basketball season
 ![A photograph of Kawhi Leonard, Clippers Forward ](https://media.cnn.com/api/v1/images/stellar/prod/ap24192541011041.jpg?c=16x9&q=h_833,w_1480,c_fill)
 <span style="font-size:0.5em;">(Athlete: Kawhi Leonard Source: cnn.com Photograph by Matt Slocum/AP, Date: October 15th, 2024)</span> 
 
-<span style=”font-size:2em;”>T</span>o avoid losing in fantasy basketball leagues this season, it will be crucial for fantasy managers to avoid busts.  Thus, here are three players to look out for in your drafts. 
+<span style="font-size:2em;">T</span>o avoid losing in fantasy basketball leagues this season, it will be crucial for fantasy managers to avoid busts.  Thus, here are three players to look out for in your drafts. 
 
 #### Injured Star Center with a History of Missing Games
 
