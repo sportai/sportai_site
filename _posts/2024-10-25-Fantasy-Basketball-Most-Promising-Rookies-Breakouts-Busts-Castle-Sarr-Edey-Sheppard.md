@@ -9,7 +9,7 @@ categories: fantasy basketball season
 ![A photograph of Zach Edey, Grizzlies C](https://athlonsports.com/.image/t_share/MjEwMjAxMjk1MDAzMzMwMDk1/usatsi_24568633.jpg)
 <span style="font-size:0.5em;">(Athlete: Zach Edey Source: athlonsports.com Photograph by Athlon Sports , Date: October 24th, 2024)</span> 
 
-<span style=”font-size:2em;”>H</span>eading into the 2024-2025 season, fantasy managers will look to capitalize on rookie players who will be impactful on their teams. The 2023 draft class offered game-changing talent, including players like Victor Wembanyama and Dereck Lively II filling large roles. So, here are three of the most promising players to watch for in 2024. 
+<span style="font-size:2em;">H</span>eading into the 2024-2025 season, fantasy managers will look to capitalize on rookie players who will be impactful on their teams. The 2023 draft class offered game-changing talent, including players like Victor Wembanyama and Dereck Lively II filling large roles. So, here are three of the most promising players to watch for in 2024. 
 
 #### 7-foot High Potential Player Leading Young Core
 
