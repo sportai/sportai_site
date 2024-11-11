@@ -8,7 +8,7 @@ categories: fantasy basketball season
 ![A picture of Victor Wembanyama dribbling like a point guard](https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
 <span style="font-size:0.5em;">A picture of Victor Wembanyama dribbling like a point guard. (Athlete: Victor Wembanyama Source: bleacherreport.com Photograph by Justin Ford/Getty Images, Date: November 8th, 2024)</span> 
 
-<span style=”font-size:2em;”>T</span>he NBA has risen to become one of the most exciting professional sports leagues in the world. The league has constantly evolved the game by adding the three-point line, focusing on player personalities, and the **rise of positionless basketball**. 
+<span style="font-size:2em;">T</span>he NBA has risen to become one of the most exciting professional sports leagues in the world. The league has constantly evolved the game by adding the three-point line, focusing on player personalities, and the **rise of positionless basketball**. 
 
 Specifically, positionless basketball has caused significant changes in how managers should evaluate players and their value. For example, players like Nikola Jokic can play any position on the floor —like point guard—and still be valuable.
 
