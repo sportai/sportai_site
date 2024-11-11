@@ -5,7 +5,7 @@ date: 2024-11-11
 categories: fantasy basketball season
 ---
 
-![A picture of Victor Wembanyama dribbling like a point guard](​​https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
+![A picture of Victor Wembanyama dribbling like a point guard](https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
 <span style="font-size:0.5em;">A picture of Victor Wembanyama dribbling like a point guard. (Athlete: Victor Wembanyama Source: bleacherreport.com Photograph by Justin Ford/Getty Images, Date: November 8th, 2024)</span> 
 
 <span style=”font-size:2em;”>T</span>he NBA has risen to become one of the most exciting professional sports leagues in the world. The league has constantly evolved the game by adding the three-point line, focusing on player personalities, and the **rise of positionless basketball**. 
@@ -28,7 +28,7 @@ Overall, positionless basketball is the **new era of the NBA** and teams have re
 
 ### Mastering the Flow: The Art of Positionless Basketball
 
-![A picture of Karl-Anthony Towns finishing at the basket](​​https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
+![A picture of Karl-Anthony Towns finishing at the basket](https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
 <span style="font-size:0.5em;">A picture of Karl-Anthony Towns finishing at the basket. (Athlete: Karl-Anthony Towns Source: dailyknicks.com Photograph by Scott Taetsch/GettyImages, Date: October 23rd, 2024)</span> 
 
 Three factors help positionless basketball flourish: **player development, the three-pointer, and defensive flexibility**. 
