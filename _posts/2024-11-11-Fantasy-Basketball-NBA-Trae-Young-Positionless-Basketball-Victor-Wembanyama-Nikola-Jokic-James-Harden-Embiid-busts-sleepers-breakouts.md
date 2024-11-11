@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Fantasy Basketball 2024: The Effects of Positionless Basketball"
-date: 2024-10-31
-categories: fantasy football season
+date: 2024-11-11
+categories: fantasy basketball season
 ---
 
 ![A picture of Victor Wembanyama dribbling like a point guard](​​https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
@@ -13,7 +13,7 @@ categories: fantasy football season
 Specifically, positionless basketball has caused significant changes in how managers should evaluate players and their value. For example, players like Nikola Jokic can play any position on the floor —like point guard—and still be valuable.
 
 
-### Rise of Positionless Basketball 
+### The Rise and Reign of Positionless Basketball
 
 ![A video of Nikola Jokic playing point guard in a 2020 game](https://x.com/RTNBA/status/1286022841566142464)
 <span style="font-size:0.5em;">A video of Nikola Jokic playing point guard in a 2020 game. (Athlete: Nikola Jokic Source: x.com Tweet by NBA Retweet , Date: July 22th, 2020)</span> 
@@ -26,7 +26,7 @@ All players **must** be able to shoot, pass, dribble, and defend, regardless of 
 
 Overall, positionless basketball is the **new era of the NBA** and teams have reflected that change in their strategies, allowing their players to fulfill multiple roles. Also, the ***rise of “unicorn” players like Wembanyama and Jokic*** embodies positionless basketball because they can have skills that seem impossible given their stature. 
 
-### Keys to positionless basketball
+### Mastering the Flow: The Art of Positionless Basketball
 
 ![A picture of Karl-Anthony Towns finishing at the basket](​​https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
 <span style="font-size:0.5em;">A picture of Karl-Anthony Towns finishing at the basket. (Athlete: Karl-Anthony Towns Source: dailyknicks.com Photograph by Scott Taetsch/GettyImages, Date: October 23rd, 2024)</span> 
@@ -40,7 +40,7 @@ Also, the three-pointer has encouraged teams to **value players** who can stretc
 Finally, positionless basketball has also **improved defensive flexibility** because players can constantly switch to other opponents despite not playing the same position. As a result, teams can coordinate defensive assignments better to **avoid mismatches**. 
 
 
-### Effects of positionless basketball for fantasy basketball 
+### Positionless Play, Fantasy Gains: How Modern Basketball Impacts Your Lineup
 
 ![A picture of assists per game using min-max normalization for the 2022-2023 NBA season](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3EG4cTyZMHnHe2ufo1le5Q.png)
 <span style="font-size:0.5em;">A picture of assists per game using min-max normalization for the 2022-2023 NBA season. (Athlete: James Harden Source: medium.com Photograph by Giora Omer, Date: September 23rd, 2023)</span> 
@@ -55,7 +55,7 @@ Harden and Young have excellent score+ rankings, 6th and 3rd for shooting and po
 
 Using the graphic above from the 2022-2023 NBA season, we can also see that Harden has consistently been able to provide great value for managers compared to other players. It demonstrates how his elite playmaking ability helps him reach double-digit assist numbers per game and boosts his fantasy value. 
 
-### effects of positionless basketball summary
+### Positionless Basketball Unpacked: A Summary of Its Effects
 
 ![A picture of Trae Young attempting a lay-up.](https://cdn.nba.com/teams/uploads/sites/1610612737/2024/01/Traewebsite.jpg)
 <span style="font-size:0.5em;">A picture of Trae Young attempting a lay-up. (Athlete: Trae Young Source: nba.com Photograph by NBA, Date: 2024)</span> 
