@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fantasy Basketball 2024: The Effects of Positionless Basketball"
+title: "Fantasy Basketball 2024: The Effects of Position-less Basketball"
 date: 2024-11-11
 categories: fantasy basketball season
 ---
@@ -8,30 +8,30 @@ categories: fantasy basketball season
 ![A picture of Victor Wembanyama dribbling like a point guard](https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
 <span style="font-size:0.5em;">A picture of Victor Wembanyama dribbling like a point guard. (Athlete: Victor Wembanyama Source: bleacherreport.com Photograph by Justin Ford/Getty Images, Date: November 8th, 2024)</span> 
 
-<span style="font-size:2em;">T</span>he NBA has risen to become one of the most exciting professional sports leagues in the world. The league has constantly evolved the game by adding the three-point line, focusing on player personalities, and the **rise of positionless basketball**. 
+<span style="font-size:2em;">T</span>he NBA has risen to become one of the most exciting professional sports leagues in the world. The league has constantly evolved the game by adding the three-point line, focusing on player personalities, and the **rise of position-less basketball**. 
 
-Specifically, positionless basketball has caused significant changes in how managers should evaluate players and their value. For example, players like Nikola Jokic can play any position on the floor —like point guard—and still be valuable.
+Specifically, position-less basketball has caused significant changes in how managers should evaluate players and their value. For example, players like Nikola Jokic can play any position on the floor —like point guard—and still be valuable.
 
 
-### The Rise and Reign of Positionless Basketball
+### The Rise and Reign of Position-less Basketball
 
 ![A picture of Nikola Jokic dribbling like a point guard](https://sportshub.cbsistatic.com/i/r/2024/10/25/270cb39e-3ffa-4f5a-abb1-55146d71b3b7/thumbnail/770x433/c2b9a870959edfe3e9aaf74b182a041c/nikola-jokic-nuggets-g.jpg)
 <span style="font-size:0.5em;">A picture of Nikola Jokic showcasing his dribbling skills. (Athlete: Nikola Jokic Source: cbssports.com Photograph by Getty Images, Date: October 25th, 2024)</span> 
 
-Over the last decade, NBA teams have adopted positionless basketball. This means that **traditional roles** —point guards directing ball movement, centers dominating the inside, and forwards filling many roles— **have changed**.
+Over the last decade, NBA teams have adopted position-less basketball. This means that **traditional roles** —point guards directing ball movement, centers dominating the inside, and forwards filling many roles— **have changed**.
 
-In positionless basketball, players **embrace many roles** regardless of their position, allowing their **athleticism to have a larger impact** on their game. This trend has popularized basketball and permits a more **dynamic and free** form of play. 
+In position-less basketball, players **embrace many roles** regardless of their position, allowing their **athleticism to have a larger impact** on their game. This trend has popularized basketball and permits a more **dynamic and free** form of play. 
 
-All players **must** be able to shoot, pass, dribble, and defend, regardless of size or position. Some examples of players who represent positionless basketball are *7-foot-three Victor Wembanyama*, **who can knock down 3’s and finish elegantly in the paint**, and *6-foot-eleven Nikola Jokic*, who possesses the **skills of an elite point guard in a center’s frame**. 
+All players **must** be able to shoot, pass, dribble, and defend, regardless of size or position. Some examples of players who represent position-less basketball are *7-foot-three Victor Wembanyama*, **who can knock down 3’s and finish elegantly in the paint**, and *6-foot-eleven Nikola Jokic*, who possesses the **skills of an elite point guard in a center’s frame**. 
 
-Overall, positionless basketball is the **new era of the NBA** and teams have reflected that change in their strategies, allowing their players to fulfill multiple roles. Also, the ***rise of “unicorn” players like Wembanyama and Jokic*** embodies positionless basketball because they can have skills that seem impossible given their stature. 
+Overall, position-less basketball is the **new era of the NBA** and teams have reflected that change in their strategies, allowing their players to fulfill multiple roles. Also, the ***rise of “unicorn” players like Wembanyama and Jokic*** embodies position-less basketball because they can have skills that seem impossible given their stature. 
 
-### Mastering the Flow: The Art of Positionless Basketball
+### Mastering the Flow: The Art of Position-less Basketball
 
 ![A picture of Karl-Anthony Towns finishing at the basket](https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1726598001/rmdxgzzivtj2to4oueic.jpg)
 <span style="font-size:0.5em;">A picture of Karl-Anthony Towns finishing at the basket. (Athlete: Karl-Anthony Towns Source: dailyknicks.com Photograph by Scott Taetsch/GettyImages, Date: October 23rd, 2024)</span> 
 
-Three factors help positionless basketball flourish: **player development, the three-pointer, and defensive flexibility**. 
+Three factors help position-less basketball flourish: **player development, the three-pointer, and defensive flexibility**. 
 
 Recently, players have been trained to be versatile from a **young age**. Big men *no longer rely on* the paint through post moves and rebounding. Today, they **learn ball-handling, shooting, and even playmaking**. On the other hand, guards and forwards develop rebounding and inside defensive skills. 
 
@@ -40,12 +40,12 @@ Also, the three-pointer has encouraged teams to **value players** who can stretc
 Finally, positionless basketball has also **improved defensive flexibility** because players can constantly switch to other opponents despite not playing the same position. As a result, teams can coordinate defensive assignments better to **avoid mismatches**. 
 
 
-### Positionless Play, Fantasy Gains: How Modern Basketball Impacts Your Lineup
+### Position-less Play, Fantasy Gains: How Modern Basketball Impacts Your Lineup
 
 ![A picture of assists per game using min-max normalization for the 2022-2023 NBA season](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*3EG4cTyZMHnHe2ufo1le5Q.png)
 <span style="font-size:0.5em;">A picture of assists per game using min-max normalization for the 2022-2023 NBA season. (Athlete: James Harden Source: medium.com Photograph by Giora Omer, Date: September 23rd, 2023)</span> 
 
-Overall, **versatile basketball players thrive** in this new era of positionless play. Currently, Nikola Jokic ranks first in fantasy points per game, averaging around 45 points, **10 above** Giannis Antetokounmpo in second. 
+Overall, **versatile basketball players thrive** in this new era of position-less play. Currently, Nikola Jokic ranks first in fantasy points per game, averaging around 45 points, **10 above** Giannis Antetokounmpo in second. 
 
 These players rank consistently as top fantasy scorers and can significantly improve team performance. For example, Nikola Jokic, **who has a score+, *a unique metric generated by SportAI algorithms that projects future fantasy performance relative to other players using advanced metrics*,  of 96.83**, is currently averaging a triple-double a game, highlighting his wide skillset. 
 
@@ -55,14 +55,14 @@ Harden and Young have excellent score+ rankings, 6th and 3rd for shooting and po
 
 Using the graphic above from the 2022-2023 NBA season, we can also see that Harden has consistently been able to provide great value for managers compared to other players. It demonstrates how his elite playmaking ability helps him reach double-digit assist numbers per game and boosts his fantasy value. 
 
-### Positionless Basketball Unpacked: A Summary of Its Effects
+### Position-less Basketball Unpacked: A Summary of Its Effects
 
 ![A picture of Trae Young attempting a lay-up.](https://cdn.nba.com/teams/uploads/sites/1610612737/2024/01/Traewebsite.jpg)
 <span style="font-size:0.5em;">A picture of Trae Young attempting a lay-up. (Athlete: Trae Young Source: nba.com Photograph by NBA, Date: 2024)</span> 
 
-Overall, the development and rise of positionless basketball have helped spark versatility and flexibility among players and teams. Players now adopt **several roles** within their teams, allowing them to garner rebounds, points, assists, and other statistics **once dominated by traditional positions**. 
+Overall, the development and rise of position-less basketball have helped spark versatility and flexibility among players and teams. Players now adopt **several roles** within their teams, allowing them to garner rebounds, points, assists, and other statistics **once dominated by traditional positions**. 
 
-Ultimately, positionless basketball makes players with an *elite ability to play all positions* well **highly valuable and necessary** for managers to succeed and dominate their leagues. 
+Ultimately, position-less basketball makes players with an *elite ability to play all positions* well **highly valuable and necessary** for managers to succeed and dominate their leagues. 
 
 ![A photograph of the logo of SportAI, a company focused on helping fantasy players win using AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
