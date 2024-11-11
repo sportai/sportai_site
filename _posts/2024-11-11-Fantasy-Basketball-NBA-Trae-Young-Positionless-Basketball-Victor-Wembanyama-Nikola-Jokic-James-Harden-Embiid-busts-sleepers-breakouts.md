@@ -15,8 +15,8 @@ Specifically, positionless basketball has caused significant changes in how mana
 
 ### The Rise and Reign of Positionless Basketball
 
-![A video of Nikola Jokic playing point guard in a 2020 game](https://x.com/RTNBA/status/1286022841566142464)
-<span style="font-size:0.5em;">A video of Nikola Jokic playing point guard in a 2020 game. (Athlete: Nikola Jokic Source: x.com Tweet by NBA Retweet , Date: July 22th, 2020)</span> 
+![A video of Nikola Jokic playing point guard in a 2020 game](https://www.youtube.com/watch?v=8UFKXjEqFQ4)
+<span style="font-size:0.5em;">A video of Nikola Jokic making a spectacular shot against the Lakers. (Athlete: Nikola Jokic Source: youtube.com Video by NBA, Date: May 22nd, 2023)</span> 
 
 Over the last decade, NBA teams have adopted positionless basketball. This means that **traditional roles** —point guards directing ball movement, centers dominating the inside, and forwards filling many roles— **have changed**.
 
