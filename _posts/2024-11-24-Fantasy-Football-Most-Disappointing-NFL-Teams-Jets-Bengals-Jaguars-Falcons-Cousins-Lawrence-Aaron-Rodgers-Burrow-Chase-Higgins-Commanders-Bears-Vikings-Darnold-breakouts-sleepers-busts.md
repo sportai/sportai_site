@@ -75,6 +75,7 @@ Second, the Bengals had championship aspirations, but are fighting to make the p
 
 Finally, the Jaguars had **playoff hopes but now are tanking for the first overall pick** in the 2025 NFL draft. They have the **highest-paid QB in the NFL** but a complete organizational collapse has led to a disappointing season in which they have the **worst-rated defense in the league**. 
 
+![A photograph of the logo of SportAI, a company focused on helping fantasy players win using 
 AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
 
