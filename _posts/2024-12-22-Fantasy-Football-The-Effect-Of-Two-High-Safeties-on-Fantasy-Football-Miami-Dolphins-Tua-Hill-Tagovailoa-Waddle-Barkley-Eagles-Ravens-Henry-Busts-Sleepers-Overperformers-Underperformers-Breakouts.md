@@ -28,8 +28,7 @@ Still, the two-high safety defense **can be beaten by offensive playcalls** like
 
 ### Breaking Records, Breaking Defenses: 2024’s Rushing Impact
 
-![A photograph which shows where defenders line up in 2024 versus 2019](https://operations.nfl.com/media/dn2hrli2/ngs_defender_loc_24_19_outsiderz-1.svg?mode=max&width=995)
-<span style="font-size:0.5em;">(Source: operations.nfl.com Photograph by NFL Operations Date: September 25th, 2024)</span>
+![A photograph which shows where defenders line up in 2024 versus 2019](https://operations.nfl.com/media/dn2hrli2/ngs_defender_loc_24_19_outsiderz-1.svg?mode=max&width=995)<span style="font-size:0.5em;">(Source: operations.nfl.com Photograph by NFL Operations Date: September 25th, 2024)</span>
 
 In 2024, two running backs, Eagle Saquon Barkley and Raven Derrick Henry have already **surpassed RB1 statistics** from 2023, passing Christian McCaffrey’s 1459 yards. Also, in 2023, 12 players reached 1000 rushing yards. With three weeks left to go in 2024, seven players have already matched that mark. 
 
