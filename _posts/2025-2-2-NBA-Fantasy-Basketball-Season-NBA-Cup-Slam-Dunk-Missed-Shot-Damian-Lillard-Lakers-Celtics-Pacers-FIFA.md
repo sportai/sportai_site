@@ -5,7 +5,7 @@ date: 2025-2-2
 categories: fantasy basketball season
 --- 
 
-<span style=”font-size:2em;”>A</span>s is the NBA Cup fades away into the past, it would be an excellent time to review its impact on players, fans, and the league. The NBA Cup is the league’s attempt to create an in-season tournament to generate hype and interest during the regular season. 
+<span style="font-size:2em;">A</span>s is the NBA Cup fades away into the past, it would be an excellent time to review its impact on players, fans, and the league. The NBA Cup is the league’s attempt to create an in-season tournament to generate hype and interest during the regular season. 
 
 ![A photograph of the Lakers NBA Cup Court](https://cdn.vox-cdn.com/thumbor/udYUl9K9BxAswR79q7TvJL3L_wQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/73675577/Lakers_court_2024_25.0.jpeg)
 <span style="font-size:0.5em;">(Source: silverscreenandroll.com Photograph by silverscreenandroll Date: October 24th, 2024)</span> 
