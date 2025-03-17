@@ -65,22 +65,6 @@ Intriguingly, the Patriots did not find much help for Maye, suggesting that they
 
 Overall, the Patriots improved significantly, but they do not rank higher because they are still a subpar team who likely will not compete for a deep playoff run. However, these additions may **have made this team the second-best in the AFC East**, behind the Bills, but ahead of the Dolphins and Jets. 
 
-![A photograph of the Caleb Williams Smiling](https://athlonsports.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MjEyOTk2NTM3ODM0MzUwMjA4/chicago-bears-mock-draft-10-caleb-williams-wall.jpg)
-<span style="font-size:0.5em;">(Source: athlonsports.com Photograph by Athlon Sports Date: Feburary 22nd, 2025)</span> 
-
-### Honorable Mention: Chicago Bears: A Fresh Start
-
-After a disastrous 2024 season, which saw the Bears go on a **10-game losing streak after giving up a hail mary miracle to the Commanders** in week eight. Former head coach Matt Eberflus took most of the blame for the terrible season along with the horrendous offensive line, which gave up 68 sacks. 
-
-As a result, Caleb Williams, the number one pick in the 2024 NFL draft, was sacked almost 11% of the time and could not find a rhythm. **Many people believed his situation was one of the best in history for a top quarterback selected in the draft** because of the elite offensive weapons surrounding him like D.J. Moore and Keenan Allen. 
-
-The Bears made significant changes after the end of the season, hiring former Lions OC Ben Johnson, the most coveted coach on the market, and acquired **three new offensive linemen** in Drew Dalman, Joe Thuney, and Jonah Jackson. 
-
-These players have **elite skills at their respective positions** and should protect Caleb Williams well this upcoming season. They also acquired **defensive line help** in Grady Jarrett and Dayo Odeyingbo, great players who add **veteran leadership and youth** to this roster. 
-
-Ultimately, **the Bears improved, addressing their needs** in the trenches, especially the offensive line, with better replacements. Still, they receive an honorable mention because their team sits in a stacked NFC North division that could see the **Bears still finish last** this upcoming season. 
-
-
 ![A photograph of the logo of SportAI, a company focused on helping fantasy players win using 
 AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
 <span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
