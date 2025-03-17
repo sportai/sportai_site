@@ -7,7 +7,7 @@ categories: fantasy football season
 
 ### Setting the Tone: 2025 Free Agency Recap 
 
-<span style=”font-size:2em;”>O</span>n Monday, March 10th, 2025, the NFL **legal tampering period began**, allowing organizations to speak with unrestricted free agents. Afterward, on Wednesday, the official free agency period began, along with a **new league year**. 
+<span style="font-size:2em;">O</span>n Monday, March 10th, 2025, the NFL **legal tampering period began**, allowing organizations to speak with unrestricted free agents. Afterward, on Wednesday, the official free agency period began, along with a **new league year**. 
 
 In a week, top-tier free agents were signed and massive trades happened for **elite players like Laremy Tunsil and DK Metcalf**. There are still more moves to come, but the impact of free agency has already been felt around the league. 
 
