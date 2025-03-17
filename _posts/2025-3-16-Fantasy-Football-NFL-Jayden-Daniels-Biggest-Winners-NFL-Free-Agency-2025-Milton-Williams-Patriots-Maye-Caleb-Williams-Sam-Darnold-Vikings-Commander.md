@@ -9,8 +9,6 @@ categories: fantasy football season
 
 <span style="font-size:2em;">O</span>n Monday, March 10th, 2025, the NFL **legal tampering period began**, allowing organizations to speak with unrestricted free agents. Afterward, on Wednesday, the official free agency period began, along with a **new league year**. 
 
-In a week, top-tier free agents were signed and massive trades happened for **elite players like Laremy Tunsil and DK Metcalf**. There are still more moves to come, but the impact of free agency has already been felt around the league. 
-
 Many teams took this new offseason as a chance to **reload and improve their rosters and playoff chances**. Here are the **top franchises** that positioned themselves **for success** heading into the new season. 
 
 ![A photograph of the Jayden Daniels Smiling](https://images2.minutemediacdn.com/image/upload/c_crop,w_5073,h_2853,x_253,y_93/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/commander_country/01j99kszg514t26r9zr2.jpg)
@@ -18,7 +16,7 @@ Many teams took this new offseason as a chance to **reload and improve their ros
 
 ### 1. Commanders: Big Trades, Important Signings 
 
-After a magical season led by **Jayden Daniels** when the Commanders reached the **NFC Conference Championship game for the first time in 33 years**, General Manager (GM) Adam Peters decided to capitalize on Daniels’ rookie contract. With the Commanders’ Super Bowl window open, Peters made **large splashes and critical signings** to improve his team. 
+After a magical season led by **Jayden Daniels** when the Commanders reached the **NFC Conference Championship game for the first time in 33 years**, General Manager (GM) Adam Peters decided to capitalize on Daniels’ rookie contract. 
 
 As the 2025 NFL free agency period approached, Peters had around $80 million in cap space to work with, the third most in the league. The Commanders had clear needs **with the trenches, at cornerback, and at wide receiver**. 
 
