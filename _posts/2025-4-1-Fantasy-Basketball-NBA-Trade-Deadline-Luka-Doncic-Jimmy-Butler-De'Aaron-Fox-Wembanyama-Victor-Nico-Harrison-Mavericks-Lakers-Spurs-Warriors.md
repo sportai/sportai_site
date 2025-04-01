@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: 2025 NBA Trade Deadline: The Greatest of All Time”
+title: "2025 NBA Trade Deadline: The Greatest of All Time"
 date: 2025-3-25
 categories: fantasy basketball season
 ---
