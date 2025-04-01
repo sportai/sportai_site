@@ -80,7 +80,7 @@ The statistic accounts for **performance variance** and **goes beyond normal ben
 
 #### Connecting With Other Players
 
-Interested in talking with other passionate fantasy basketball players while receiving insightful weekly updates about the NBA season? <span style="font-size:2em;">Join the [SportAI Discord](https://discord.gg/YeaMrNGnu7)</span>
+Interested in talking with other passionate fantasy basketball players while receiving insightful weekly updates about the NFL? <span style="font-size:2em;">Join the [SportAI Discord](https://discord.gg/YeaMrNGnu7)</span>
 
 
 
