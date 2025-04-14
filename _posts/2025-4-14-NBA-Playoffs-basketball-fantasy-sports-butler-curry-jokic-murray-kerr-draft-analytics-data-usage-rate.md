@@ -84,9 +84,9 @@ The statistic accounts for **performance variance** and **goes beyond normal ben
 
 ### 2025 Fantasy Basketball NBA Cup and Most Intriguing Rookies 
 
-<span style="font-size:1.5em;">Looking for League-Winning Rookies? Read [here]https://sportai.io/fantasy/basketball/season/2024/10/25/Fantasy-Basketball-Most-Promising-Rookies-Breakouts-Busts-Castle-Sarr-Edey-Sheppard.html</span>
+<span style="font-size:1.5em;">Looking for League-Winning Rookies? Read [here](https://sportai.io/fantasy/basketball/season/2024/10/25/Fantasy-Basketball-Most-Promising-Rookies-Breakouts-Busts-Castle-Sarr-Edey-Sheppard.html)</span>
 
-<span style="font-size:1.5em;">Looking to Learn about the NBA Cup? Read [here]https://sportai.io/fantasy/basketball/season/2025/02/02/NBA-Fantasy-Basketball-Season-NBA-Cup-Slam-Dunk-Missed-Shot-Damian-Lillard-Lakers-Celtics-Pacers-FIFA.html</span>
+<span style="font-size:1.5em;">Looking to Learn about the NBA Cup? Read [here](https://sportai.io/fantasy/basketball/season/2025/02/02/NBA-Fantasy-Basketball-Season-NBA-Cup-Slam-Dunk-Missed-Shot-Damian-Lillard-Lakers-Celtics-Pacers-FIFA.html)</span>
 
 #### SportAI’s Drop the Mic 
 <span style="font-size:2em;">“You ask what position I play, I say point guard.”- Jimmy Butler, Star Warriors Forward </span>
