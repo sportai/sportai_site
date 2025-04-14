@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “The NBA Playoffs Are More Unpredictable Than Ever”
+title: "The NBA Playoffs Are More Unpredictable Than Ever"
 date: 2025-4-14
 categories: fantasy basketball season
 ---
