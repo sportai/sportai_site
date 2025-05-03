@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "The $3K DFS Stack That Shocked Boston"
@@ -35,4 +34,34 @@ Especially when that warzone involves defensive-minded grinders like Boston, and
 That night wasn’t a fluke: it was a fantasy blueprint. One that savvy DFS managers now swear by.
 
 **Will you be the next one to catch a $3,000 gem before the rest of the world catches on?**
+
+![A photograph of the logo of SportAI, a company focused on helping fantasy players win using 
+AI tools](https://miro.medium.com/v2/resize:fit:908/format:webp/0*XJQxNj4js71Q1nRN) 
+<span style="font-size:0.5em;">(SportAI Inc *TM*)</span>
+
+#### New Free Fantasy Sports AI Tool
+
+Looking for **more rankings** and **free** fantasy tools? 
+
+Check out [SportAI.io](https://sportai.io/), the **all-inclusive fantasy sports app** that provides the **necessary tools** to compare lineups and determine starting or benching a player **effectively**. 
+
+SportAI uses its **unique Score+ metric**, derived from in-house algorithms, to **project future fantasy performance** relative to other players. 
+
+The statistic accounts for **performance variance** and **goes beyond normal benchmarks**, using data points such as injuries, team achievement, opponent performance, and more.
+
+### 2025 Fantasy Basketball NBA Cup and Most Intriguing Rookies 
+
+<span style="font-size:1.5em;">Looking for League-Winning Rookies? Read [here](https://sportai.io/fantasy/basketball/season/2024/10/25/Fantasy-Basketball-Most-Promising-Rookies-Breakouts-Busts-Castle-Sarr-Edey-Sheppard.html)</span>
+
+<span style="font-size:1.5em;">Looking to Learn about the NBA Cup? Read [here](https://sportai.io/fantasy/basketball/season/2025/02/02/NBA-Fantasy-Basketball-Season-NBA-Cup-Slam-Dunk-Missed-Shot-Damian-Lillard-Lakers-Celtics-Pacers-FIFA.html)</span>
+
+#### SportAI’s Drop the Mic 
+<span style="font-size:2em;">“If you think you can sing, you can sing; that's all that matters.”- Jimmy Butler, Star Warriors Forward </span>
+
+*Drop the Mic is a segment that features a funny quote at the end of each blog post!*
+
+#### Connecting With Other Players
+
+Interested in talking with other passionate fantasy basketball players while receiving insightful weekly updates about the NBA season? <span style="font-size:2em;">Join the [SportAI Discord](https://discord.gg/YeaMrNGnu7)</span>
+
 
