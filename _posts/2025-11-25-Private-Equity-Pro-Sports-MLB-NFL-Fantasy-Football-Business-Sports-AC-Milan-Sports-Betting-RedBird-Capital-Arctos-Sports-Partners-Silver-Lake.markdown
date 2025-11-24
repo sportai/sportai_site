@@ -41,9 +41,6 @@ In European football, **RedBird Capital** acquired **AC Milan** for **$1.2 billi
 
 Even **Formula 1** has gone corporate. Since **Liberty Media** acquired the league, its commercial footprint has exploded — thanks to U.S. Grand Prix expansion, streaming deals, and Wall Street muscle behind the scenes.
 
-![The rules of ownership are evolving — and private equity is writing the next chapter.](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*g07lBBYww5TAOgdbBdWOxA.png)  
-<span style="font-size:0.5em;">The rules of ownership are evolving — and private equity is writing the next chapter. (Original)</span>
-
 ### The Upside (and the Unease)
 
 There are clear benefits. Private equity brings **structure**, **scalability**, and **deep capital**. Teams like the **Milwaukee Bucks** have used PE backing to finance arena renovations and fan tech, while **MLS clubs** like **Real Salt Lake** have accelerated their development pipelines with external funding.
@@ -53,9 +50,6 @@ But the fan experience is changing. In 2024, the **Premier League** came under s
 In the U.S., fans face subtler shifts: **dynamic ticket pricing**, **higher merchandise markups**, and **paywalled regional broadcasts**, all aimed at **maximizing investor ROI**.
 
 *The question becomes: who is the team really serving — the hometown crowd or the capital partners?*
-
-![Fans bring the passion. Investors bring the profit model.](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*YkFIc7eW4_UX1SrhmNsDIQ.png)  
-<span style="font-size:0.5em;">Fans bring the passion. Investors bring the profit model. (Original)</span>
 
 ### What This Means for the Future
 
