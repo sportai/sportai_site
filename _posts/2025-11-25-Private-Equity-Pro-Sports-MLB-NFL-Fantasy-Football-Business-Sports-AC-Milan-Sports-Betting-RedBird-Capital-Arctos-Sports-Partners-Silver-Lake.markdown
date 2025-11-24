@@ -41,6 +41,9 @@ In European football, **RedBird Capital** acquired **AC Milan** for **$1.2 billi
 
 Even **Formula 1** has gone corporate. Since **Liberty Media** acquired the league, its commercial footprint has exploded — thanks to U.S. Grand Prix expansion, streaming deals, and Wall Street muscle behind the scenes.
 
+![The rules of ownership are evolving — and private equity is writing the next chapter.](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*g07lBBYww5TAOgdbBdWOxA.png)  
+<span style="font-size:0.5em;">The rules of ownership are evolving — and private equity is writing the next chapter. (Original)</span>
+
 ### The Upside (and the Unease)
 
 There are clear benefits. Private equity brings **structure**, **scalability**, and **deep capital**. Teams like the **Milwaukee Bucks** have used PE backing to finance arena renovations and fan tech, while **MLS clubs** like **Real Salt Lake** have accelerated their development pipelines with external funding.
@@ -60,9 +63,6 @@ Even the **NFL**, historically the most conservative, is now allowing **“insti
 The bigger question is whether this new model preserves what makes sports worth investing in: **community**, **loyalty**, and **unpredictability**.
 
 Because when everything is optimized for return… *what gets lost in the margin?*
-
-![When profit becomes the metric, what happens to pride?](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xRWCpFWk5pUXJ8OKJic9zg.png)  
-<span style="font-size:0.5em;">When profit becomes the metric, what happens to pride? (Original)</span>
 
 ![SportAI logo](https://miro.medium.com/v2/format:webp/0*3oDMWRCj9aqPMqcq)  
 <span style="font-size:0.5em;">(SportAI Inc ™)</span>
