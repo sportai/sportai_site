@@ -42,7 +42,7 @@ A hoodie with your team’s logo is not just for warmth — it’s for **signal 
 This is not about loyalty points — it is about **lifestyle equity**. In 2025, owning the gear means owning the moment.
 
 ![The uniform is no longer just on the field — it’s everywhere.](https://colorreflections.com/wp-content/uploads/2024/08/Retail-dimensional-display-with-SEG-frame-scaled.jpg)  
-<span style="font-size:0.5em;">The uniform is no longer just on the field — it’s everywhere. (Original)</span>
+<span style="font-size:0.5em;">The uniform is no longer just on the field — it’s everywhere. (Source: colorreflections.com)</span>
 
 ### The Future Wears the Logo
 
